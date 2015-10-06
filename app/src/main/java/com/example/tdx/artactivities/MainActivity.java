@@ -1,16 +1,38 @@
 package com.example.tdx.artactivities;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.ImageButton;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+
+
+    ImageButton currentMonthButton;
+    ImageButton browseButton;
+    ImageButton searchButton;
+    ImageButton favoritesButton;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        currentMonthButton = (ImageButton) findViewById(R.id.ButtonCurrentMonth);
+        browseButton = (ImageButton) findViewById(R.id.ButtonBrowse);
+        searchButton = (ImageButton) findViewById(R.id.ButtonSearch);
+        favoritesButton = (ImageButton) findViewById(R.id.ButtonFavorites);
+
+        currentMonthButton.setOnClickListener(this);
+        browseButton.setOnClickListener(this);
+        searchButton.setOnClickListener(this);
+        favoritesButton.setOnClickListener(this);
+        
     }
 
     @Override
@@ -34,4 +56,39 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+
+    @Override
+    public void onClick(View v) {
+        Intent myIntent = null;
+
+        switch (v.getId()) {
+
+            case R.id.ButtonCurrentMonth:
+                // todo: add code to load current month
+                break;
+
+            case R.id.ButtonBrowse:
+                myIntent = new Intent(getApplicationContext(), BrosweMonthActivity.class);
+                break;
+
+            case R.id.ButtonSearch:
+                // todo: add code to search
+                break;
+
+            case R.id.ButtonFavorites:
+                // todo: add code to load favorites
+                break;
+
+            default:
+                break;
+        }
+
+        if (myIntent != null) { startActivity(myIntent); }
+
+
+
+    }
+
+
 }

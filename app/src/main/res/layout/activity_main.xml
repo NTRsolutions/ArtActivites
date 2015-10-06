@@ -14,7 +14,7 @@
     <ImageButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/imageButton"
+        android:id="@+id/ButtonCurrentMonth"
         android:src="@drawable/jan"
         android:layout_row="0"
 
@@ -32,7 +32,7 @@
     <ImageButton
 
         android:background="@color/BlueTile02"
-        android:id="@+id/imageButton2"
+        android:id="@+id/ButtonBrowse"
         android:src="@drawable/browse"
         android:layout_row="0"
         android:layout_column="1"
@@ -53,7 +53,7 @@
         android:background="@color/BlueTile03"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/imageButton3"
+        android:id="@+id/ButtonSearch"
         android:src="@drawable/search"
         android:layout_row="1"
         android:layout_column="0"
@@ -72,7 +72,7 @@
         android:background="@color/BlueTile04"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/imageButton4"
+        android:id="@+id/ButtonFavorites"
         android:src="@drawable/star"
         android:layout_row="1"
         android:layout_column="1"
