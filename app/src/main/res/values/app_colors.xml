@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="BlueBackGround">#0D307F</color>
+    <color name="BlueTile01">#6881BA</color>
+    <color name="BlueTile02">#596D9B</color>
+    <color name="BlueTile03">#3860bb</color>
+    <color name="BlueTile04">#4765a9</color>
+
+
+</resources>
