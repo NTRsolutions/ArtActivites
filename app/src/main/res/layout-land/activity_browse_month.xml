@@ -19,7 +19,6 @@
             android:text="@string/jan"
             android:id="@+id/ButtonJan"
 
-            android:padding="0dp"
             android:layout_marginTop="10dp"
             android:layout_marginLeft="10dp"
             android:background="@color/BlueTile01"
@@ -32,7 +31,6 @@
             android:layout_weight="0.3"
             android:text="@string/feb"
             android:id="@+id/ButtonFeb"
-            android:padding="0dp"
             android:layout_marginTop="10dp"
             android:textColor="@color/AntiqueWhite"
             android:background="@color/DeepPink"
@@ -44,13 +42,26 @@
             android:layout_weight="0.3"
             android:text="@string/mar"
             android:id="@+id/ButtonMarch"
-            android:padding="0dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:textColor="@color/AntiqueWhite"
             android:background="@color/ForestGreen"
             android:layout_margin="5dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:text="@string/apr"
+            android:id="@+id/ButtonApr"
+
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/AntiqueWhite"
+            android:background="@color/BurlyWood"
+            android:layout_margin="5dp" />
+
     </LinearLayout>
+
 
     <LinearLayout
         android:orientation="horizontal"
@@ -64,22 +75,8 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="0.3"
-            android:text="@string/apr"
-            android:id="@+id/ButtonApr"
-
-            android:padding="0dp"
-            android:layout_marginLeft="10dp"
-            android:textColor="@color/AntiqueWhite"
-            android:background="@color/BurlyWood"
-            android:layout_margin="5dp" />
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_weight="0.3"
             android:text="@string/may"
             android:id="@+id/ButtonMay"
-            android:padding="0dp"
             android:textColor="@color/AntiqueWhite"
             android:background="@color/DarkMagenta"
             android:layout_margin="5dp" />
@@ -90,23 +87,10 @@
             android:layout_weight="0.3"
             android:text="@string/jun"
             android:id="@+id/ButtonJun"
-            android:padding="0dp"
             android:layout_marginRight="10dp"
             android:textColor="@color/AntiqueWhite"
             android:background="@color/DodgerBlue"
             android:layout_margin="5dp" />
-    </LinearLayout>
-
-
-
-
-    <LinearLayout
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="0.5"
-
-        >
 
         <Button
             android:layout_width="wrap_content"
@@ -115,7 +99,6 @@
             android:text="@string/jul"
             android:id="@+id/ButtonJul"
 
-            android:padding="0dp"
             android:layout_marginLeft="10dp"
             android:textColor="@color/AntiqueWhite"
             android:background="@color/FireBrick"
@@ -127,22 +110,10 @@
             android:layout_weight="0.3"
             android:text="@string/aug"
             android:id="@+id/ButtonAug"
-            android:padding="0dp"
             android:textColor="@color/AntiqueWhite"
             android:background="@color/OrangeRed"
             android:layout_margin="5dp" />
 
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_weight="0.3"
-            android:text="@string/sep"
-            android:id="@+id/ButtonSep"
-            android:padding="0dp"
-            android:layout_marginRight="10dp"
-            android:textColor="@color/AntiqueWhite"
-            android:background="@color/MediumOrchid"
-            android:layout_margin="5dp" />
     </LinearLayout>
 
     <LinearLayout
@@ -157,10 +128,20 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="0.3"
+            android:text="@string/sep"
+            android:id="@+id/ButtonSep"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/AntiqueWhite"
+            android:background="@color/MediumOrchid"
+            android:layout_margin="5dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
             android:text="@string/oct"
             android:id="@+id/ButtonOct"
 
-            android:padding="0dp"
             android:layout_marginLeft="10dp"
             android:textColor="@color/AntiqueWhite"
             android:background="@color/DarkOrange"
@@ -172,7 +153,6 @@
             android:layout_weight="0.3"
             android:text="@string/nov"
             android:id="@+id/ButtonNov"
-            android:padding="0dp"
             android:textColor="@color/AntiqueWhite"
             android:background="@color/Maroon"
             android:layout_margin="5dp" />
@@ -183,7 +163,6 @@
             android:layout_weight="0.3"
             android:text="@string/dec"
             android:id="@+id/ButtonDec"
-            android:padding="0dp"
             android:layout_marginRight="10dp"
             android:textColor="@color/AntiqueWhite"
             android:background="@color/Green"

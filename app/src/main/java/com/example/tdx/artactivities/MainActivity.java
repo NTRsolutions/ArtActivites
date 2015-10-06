@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         browseButton.setOnClickListener(this);
         searchButton.setOnClickListener(this);
         favoritesButton.setOnClickListener(this);
-        
+
     }
 
     @Override

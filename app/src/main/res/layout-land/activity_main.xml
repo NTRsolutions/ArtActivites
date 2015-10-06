@@ -60,7 +60,7 @@
             android:layout_height="match_parent"
             android:id="@+id/ButtonFavorites"
             android:src="@drawable/star"
-
+           
             android:layout_weight="0.5"
             android:scaleType="fitCenter"
             android:background="@color/BlueTile04"

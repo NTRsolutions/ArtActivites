@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="jan">JANUARY</string>
+    <string name="feb">FEBUARY</string>
+    <string name="mar">MARCH</string>
+    <string name="apr">APRIL</string>
+    <string name="may">MAY</string>
+    <string name="jun">JUNE</string>
+    <string name="jul">JULY</string>
+    <string name="aug">AUGUST</string>
+    <string name="sep">SEPTEMBER</string>
+    <string name="oct">OCTOBER</string>
+    <string name="nov">NOVEMBER</string>
+    <string name="dec">DECEMBER</string>
+
+    <string name="allmonths">SHOW ALL ACTIVITES</string>
+
+</resources>
