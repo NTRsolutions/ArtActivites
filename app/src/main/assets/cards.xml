@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cards>
+
+
+
+
+    <card>
+        <id>001</id>
+        <month>Jan</month>
+        <name>Memory Game</name>
+        <description>Make the game pieces, then play with your friends.</description>
+        <materials>
+            <item>Cardboard</item>
+            <item>Ruler</item>
+            <item>Pencil</item>
+            <item>Scissors</item>
+            <item>Markers or paints</item>
+        </materials>
+        <directions>
+            <step>Use your ruler and pencil to draw 16 equal squares on the carboard. Cut out all the squares.</step>
+            <step>Divide the squares up into eight sets of two squares. Draw an idential picture on each of the eight sets. For example draw a spaceship on two squares, a moon on two other squares, etc.</step>
+            <step>When all the pictues are complete, mix up the pieces and place them face-down on your playing surface.</step>
+            <step>Each player will turn over two squares at a time. If the pictures on your squares match, keep them and turn over two more squares. If the cards don't match turn them face-down again and let your friend take a turn. The person with the most matched squares wins the game!</step>
+        </directions>
+    </card>
+    <card>
+        <id>002</id>
+        <month>Dec</month>
+        <name>3-D Snowflakes</name>
+        <description>Create a winter wonderland with these fun-to-make paper flakes.</description>
+        <materials>
+            <item>8½x11" (A4) colored paper</item>
+            <item>Scissors</item>
+            <item>Ruler</item>
+            <item>Stapler</item>
+            <item>Pencil</item>
+            <item>Glue</item>
+            <item>Paper clips</item>
+            <item>String</item>
+        </materials>
+        <directions>
+            <step>Fold the paper in half so that the two long sides match up. Unfold the paper and cut along the creased line. You should now have two 4¼x11" (11x28cm) strips of paper.</step>
+            <step>With one of the paper strips, start from the short edge and fold back and forth every ¾" (2cm), like a fan.</step>
+            <step>Gently, fold the fanned paper in half to make a crease in the middle.</step>
+            <step>Place a staple in the middle of the paper along the center crease. Your paper will look like a bow tie.</step>
+            <step>Use your pencil to draw a few small triangles or half circles along the folded edges of you paper. With scissors, cut out these simple shapes. Be sure not to cut all the way across the foleded paper. Snip the corners off to round out your flake.</step>
+            <step>Carefully open the paper on both sides of the staple. Glue the edges together to create a round snowflake. You can use paper clips to hold the paper together while the glue dries.</step>
+            <step>After the glue has dried, remove the paper clips and tie a string through one of the holes of the snowflake. Hang your snowflake from a window sill or in you bedroom.</step>
+        </directions>
+    </card>
+    <card>
+        <id>003</id>
+        <month>Jan</month>
+        <name>Spinning Tops</name>
+        <description>Make these colorful tops and watch them spin.</description>
+        <materials>
+            <item>Round object for tracing (canned food or jar lid)</item>
+            <item>Short pencil, with a point</item>
+            <item>Cardboard</item>
+            <item>Scissors</item>
+            <item>Markers or craynos</item>
+        </materials>
+        <directions>
+            <step>With your pencil, outline your round object on the cardboard.</step>
+            <step>Carefully cut the circle out with your scissors.</step>
+            <step>Use your markers or crayons to draw a funky pattern on the cardboard circle.</step>
+            <step>Locate the center point of the circle and gently push the pencil tip through the cardboard.</step>
+            <step>Place a piece of paper under your top, so that you don't get pencil markins on you tabletop. Then, gently spin your top and watch it go!</step>
+        </directions>
+    </card>
+    <card>
+        <id>004</id>
+        <month>Mar</month>
+        <name>Piggy Bank</name>
+        <description>Save your coins in this friendly bank.</description>
+        <materials>
+            <item>Plasitc milk container (washed and dried)</item>
+            <item>Egg carton</item>
+            <item>Scissors</item>
+            <item>Glue</item>
+            <item>Acrylic paint</item>
+            <item>Markers</item>
+            <item>Construction paper</item>
+            <item>Pipe cleaner</item>
+        </materials>
+        <directions>
+            <step>Cut out four of the egg cups from the bottom of the egg carton. Position your milk carton so that the handle is faceing up. Glue the four egg cups to the bottom of the carton to create legs for your pig. Set it aside to dry.</step>
+            <step>Next, paint the entire pig. After the paint has dried, add eyes and nostrils with your markers.</step>
+            <step>For the ears, cut two triangles from the construction paper and glue them to your pig. Then, wrap the pipe cleaner around your finger a few times to create a coil.</step>
+            <step>Finally, ask an adult to cut a coin slit in the top and a small hole in the back. Poke one end of your pipe cleaner into the hole for a tail.</step>
+            <step>Start saving your coins!</step>
+        </directions>
+    </card>
+    <card>
+        <id>005</id>
+        <month>dec</month>
+        <name>New Year's Noisemakers</name>
+        <description>Ring in the New Year with this homemade noisemaker.</description>
+        <materials>
+            <item>2 sturdy, deep paper plates</item>
+            <item>A handful of dried beans or coins</item>
+            <item>Glue</item>
+            <item>Stapler</item>
+            <item>Markers</item>
+            <item>Hole punch</item>
+            <item>Ribbon</item>
+        </materials>
+        <directions>
+            <step>Using your markers, decorate the bottom of both paper plates with stars, stripes, dots, or whatever you like.</step>
+            <step>Turn one of the plates over and place a handful dried beans or coins on the plate.</step>
+            <step>Carefully apply glue around the rim of the paper plate containing the beans or coins.</step>
+            <step>Next, match the rim of the other plate to the glued edge. You can add a few staples aroudn the edges of the two plates to reinforce the glue. Allow the glue to dry overnight.</step>
+            <step>For an extra flair, punch a few holes near the edges of your noisemaker. Tie a piece of ribbon through each hole.</step>
+            <step>Hold your noisemaker tightly and shake!</step>
+        </directions>
+    </card>
+    <card>
+        <id>006</id>
+        <month>Jun</month>
+        <name>Recycled Bird Feeder</name>
+        <description>Use an empty egg carton to feed your feathered friends.</description>
+        <materials>
+            <item>Empty egg carton</item>
+            <item>Scissors</item>
+            <item>Hole punch</item>
+            <item>String</item>
+            <item>Birdseed</item>
+        </materials>
+        <directions>
+            <step>Cut the lid of your egg carton off.</step>
+            <step>Punch a hole in each of the four corners of the sectioned portion of the carton.</step>
+            <step>Cut four equal pieces of string, approximately 18" (46cm) long. Tie on piece of string to each corner hole of the carton.</step>
+            <step>Carefully, gather the ends of the four strings and knot them together, keeping the carton as level as possible.</step>
+            <step>Fill the sectinos of the carton with birdseed and hang your feeder outside. Watch all of the birds flock to the new feeder.</step>
+        </directions>
+    </card>
+
+    <card>
+        <id>007</id>
+        <month>Mar</month>
+        <name>Bunny Ears</name>
+        <description>Celebrate Easter in sytle.</description>
+        <materials>
+            <item>White poster board</item>
+            <item>Scissors</item>
+            <item>Markers of crayons</item>
+            <item>Glue</item>
+            <item>Stapler</item>
+            <item>Cotton ball</item>
+        </materials>
+        <directions>
+            <step>Cut a strip of poster board approximately 2x24: (5x60cm).</step>
+            <step>Have an adult helpyou wrap the strip aroudn your head and secure with a stapler in the back.</step>
+            <step>Cut out two long, bunny ear shapes. Color the insdie of each ear pink.</step>
+            <step>Glue the bunny ears to the inside of the back of the headband, near the staples.</step>
+            <step>Finally, glue a cotton ball to the back of teh headband, covering the staples. Slide your bunny ears on after the glue has dried.</step>
+        </directions>
+    </card>
+    <card>
+        <id>008</id>
+        <month>Jan</month>
+        <name>Party Hat</name>
+        <description>Why buy a party hat, when you can make your own?</description>
+        <materials>
+            <item>Large piece of poster board (approximately 12x18" (30x45cm))</item>
+            <item>Scissors</item>
+            <item>Stapler</item>
+            <item>Glue</item>
+            <item>Construction paper</item>
+            <item>Hole punch</item>
+            <item>String or ribbon</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Curl your poster board into a large cone shape. Overlap the edges of your cone and staple them together to secure.</step>
+            <step>Trim the excess poster board from the bottom to create an even, straight edge.</step>
+            <step>Cut your construction paper to approximately 3x5" (8x13cm). Create fringe by cutting several slits along the long edge of the paper, leaving about an inch (3cm) of the other long edge uncut.</step>
+            <step>Carefully wrap the uncut edge of the fringe paper aroudn the point of the hat and glue it in place. Gently fold the fringe pieces down to create more texture.</step>
+            <step>Punch one hole on either side of the hat near the bottom. Cut two 12" (30 cm) pieces of ribbion inside the hat. Repeat on the other side.</step>
+            <step>Decorate your hat with markers.</step>
+            <step>Get the party started by placing the hat on your head and trying the ribbon in a nice bow below your chin.</step>
+        </directions>
+    </card>
+
+    <card>
+        <id>009</id>
+        <month>Jul</month>
+        <name>Sidewalk Chalk Bull's Eye</name>
+        <description>Practice your aim by yourself or compete against your friends.</description>
+        <materials>
+            <item>Sidewalk chalk (3 colors)</item>
+            <item>BeanBags</item>
+            <item>Sidewalk or driveway</item>
+        </materials>
+        <directions>
+            <step>Draw a bull's eye with your sidewalk chalk. Use one color for the center circle, another color for the middle circle and a third color for the outside circle.</step>
+            <step>Take several steps back and try your best to toss a bean bag into the center circle.</step>
+            <step>If you play with a friend, take turns tossing from the same spot. For a greater challenge, take a few more steps back. Good luck!</step>
+        </directions>
+    </card>
+
+    <card>
+        <id>010</id>
+        <month>Jan</month>
+        <name>Pasta Jewlery</name>
+        <description>String dry pasta to make colorful costume jewelry.</description>
+        <materials>
+            <item>Dried pasta shapes that have holes (Macaroni, Penne, Wagon Wheels, etc.)</item>
+            <item>Paper cups</item>
+            <item>Food coloring</item>
+            <item>White vinegar</item>
+            <item>Water</item>
+            <item>Paper towels or newpapers</item>
+            <item>Slotted spoon or fork</item>
+            <item>Yarn or dental floss</item>
+        </materials>
+        <directions>
+            <step>Pour ¼ cup of vinegar and ¼ cup of water into a paper cup. Add about 10 drops of food coloring and swish around to mix.</step>
+            <step>Drop a handful of pasta into the solution, making sure all the noodles are completely submerged.</step>
+            <step>Let the pasta soak for 10 minutes or so, then remove it with a slotted spoon and place it on paper towels or newspapers to dry and harden overnight.</step>
+            <step>Repeat the process with other colors in different cups.</step>
+            <step>When completely dry, string the pasta onto yarn or dental floss to make bracelets and necklaces.</step>
+        </directions>
+    </card>
+    <card>
+        <id>011</id>
+        <month>Jan</month>
+        <name>Milk Carton Paddleboat</name>
+        <description>Splash in the tub with this sleek, self-propelled paddleboat.</description>
+        <materials>
+            <item>Two 1-pint milk cartons</item>
+            <item>Popsicle sticks</item>
+            <item>Rubber bands</item>
+            <item>Scissors</item>
+            <item>Stapler</item>
+        </materials>
+        <directions>
+            <step>Close the top of one milk carton and staple it shut.</step>
+            <step>Put two rubber bands aroudn the carton. Put Popsicle sticks underneath the rubber bands on two opposite sides of the carton along the same edge so the ends stick out a few inches from the bottom of the carton.</step>
+            <step>From a separate carton, cut two rectangels of cardboard, about 1x2" (2.5x5cm) each. Lay one of the rectangles down, and place a rubber band on top of it crosswise. Place the other rectangle on top, sandwiching the rubber band on top of it crosswise. Place the other rectangle on top, sandwiching the rubber band between the cardboard pieces. Put a staple in each en fo the rectangles, and on in the center (without actually touching the rubber band) to from the paddle.</step>
+        </directions>
+    </card>
+    <card>
+        <id>012</id>
+        <month>Feb</month>
+        <name>Hairy Pets</name>
+        <description>You can be the barber for this happy hairy pet.</description>
+        <materials>
+            <item>Paper cup</item>
+            <item>Markers</item>
+            <item>Potting soil</item>
+            <item>Small rocks</item>
+            <item>Grass seeds</item>
+            <item>Water</item>
+            <item>Scissors</item>
+        </materials>
+        <directions>
+            <step>With markers, draw your pet's face on your cup and color it however you like.</step>
+            <step>Place a handful of small rocks in the bottom of you cup, then fill it nearly to the top with soil, and sprinkle with grass seeds. Cover the seeds with about ¼ (¾cm) more soil. Add a little water.</step>
+            <step>Keep your pet in the window and watch for hair growth. Add water every few days or when it becomes dry. When the grass gets long, trim it with scissors.</step>
+        </directions>
+    </card>
+    <card>
+        <id>013</id>
+        <month>Jun</month>
+        <name>Stars and Stripes Wind Sock</name>
+        <description>Celebrate flag day with this homemade wind sock.</description>
+        <materials>
+            <item>Construction paper (perferably blue and white)</item>
+            <item>Glue</item>
+            <item>Stapler</item>
+            <item>Hole punch</item>
+            <item>Sting</item>
+            <item>Streamers (perferably red and white)</item>
+        </materials>
+        <directions>
+            <step>Cut out several stars from the white paper. Glue these stars to one side of an 11x17" (28x43cm) piece of blue construction paper. If you don't have blue paper, use markers or crayons to decorate your paper.</step>
+            <step>Create a cylinder shape by stapling the short ends of teh 11x17" (28x43cm) paper together.</step>
+            <step>Cut eight streamers (four red, four whiteO to approximately 24" (60cm) each. Staple one end of each streamer to the insdie of the bottom edge of the cylinder. Be sure to alternate colors: red, white, red, white, etc.</step>
+            <step>Punch three hoels evenly spaced aroudn the top edge of the cylinder. Carefully tie a 12" (30cm) piece of string to each hole. Then, tie the opposite ends together.</step>
+            <step>Tie 18" (46cm) string to the knot. Use this string to tie your wind sock to a tree branch outside.</step>
+        </directions>
+    </card>
+    <card>
+        <id>014</id>
+        <month>May</month>
+        <name>Big and Bigger Bubblemakers</name>
+        <description>Blow bigger bubbles with this big, big bubblemaker.</description>
+        <materials>
+            <item>Lid from a plasitc container of cottage cheese, sour cream, or yogurt.</item>
+            <item>Scisors</item>
+            <item>Shallow dish</item>
+            <item>Soap bubble solution (store-bought or homemade)</item>
+        </materials>
+        <directions>
+            <step>Poke a hole in the center of the plastic lid with the point of the scissors. Ask an adult to help if necessary. Carefully cut toward teh edge, but don't go all the way to the rim. Leave approximately ¼" to 1/2" (¾ to 1¼ cm) of the top surface of the lid intact aroudn the rim, and cut away the center portion. You'll be left with a large ring.</step>
+            <step>Pour buble solution into a shallow dish that's bigger than your bubblemaker. Lay the ring upside-down in the solution. Carefully pick it up and very gently swish it through the air. You'll be blowin' big, beautiful bubbles, baby!</step>
+        </directions>
+    </card>
+    <card>
+        <id>015</id>
+        <month>Feb</month>
+        <name>Ballon Rice Balls</name>
+        <description>These homemade balls are great for juggling or a game of catch.</description>
+        <materials>
+            <item>9 round balloons</item>
+            <item>Funnel</item>
+            <item>3 cups rice (uncooked)</item>
+            <item>Scissors</item>
+        </materials>
+        <directions>
+            <step>Inflate one balloon, without knotting the end. Hold it closed for about a minute, then deflate. This will stretch the surface of the balloon.</step>
+            <step>Place the funnel into the balloon opening. Slowly pour the rice in. Use your hands to shape into a ball. With scissors, trim the thick lip of the balloon opening off.</step>
+            <step>Cut off the neck of a second (deflated) balloon. Strecth the opening slightly.</step>
+            <step>Fold the neck of the rice-filled balloon over, while stretching a second balloon over the ball.</step>
+            <step>Repeat steps 3 and 4 with a third balloon to complete one ball. Make two more balls and try your hand at juggling.</step>
+        </directions>
+    </card>
+    <card>
+        <id>016</id>
+        <month>Mar</month>
+        <name>Rock Critters</name>\
+        <description>Place these critters in the garden or on your desk.</description>
+        <materials>
+            <item>Smooth rocks (washed and dried)</item>
+            <item>Acrylic paint</item>
+            <item>Glue</item>
+            <item>Googly eyes</item>
+        </materials>
+        <directions>
+            <step>Make sure that your rock is completely dry before you beign painting.</step>
+            <step>Use your imagination to paint a unique character. Or, create a character that you might find outside: a turtle, a ladybug, or a spider. Allow the paint to dry completely.</step>
+            <step>Glue the googly eyes on to complete your garden or paperweight friend.</step>
+        </directions>
+    </card>
+    <card>
+        <id>017</id>
+        <name>Boomerang</name>
+        <month>Apr</month>
+        <description>Toss this boomerang and watch it come back to you.</description>
+        <materials>
+            <item>Cardboard</item>
+            <item>Ruler</item>
+            <item>Pencil</item>
+            <item>Scissors</item>
+            <item>Stapler</item>
+            <item>Acrylic paints or markers</item>
+        </materials>
+        <directions>
+            <step>Measure and cut out two strips of cardboard approximately 2x12" (5x30cm) long. Round out the corners with your scissors.</step>
+            <step>Place one strip over the other and line up the center points to from a "+". Staple the two pieces together at the intersection. Decorate the boomerang with paint and markers and allow it to dry.</step>
+            <step>Fold the four ends of your boomerang up, about an inch (3cm) from the edge.</step>
+            <step>Find a wide-open area, outside. Hold your boomerang by one of the "arms" and flip your wrist while you release it. It should come flying back to you. Try out different throwing techniques to see what works best for you.</step>
+        </directions>
+    </card>
+</cards>

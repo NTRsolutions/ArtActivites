@@ -1,0 +1,47 @@
+
+  File:: log.txt
+
+  Tyler Decker
+
+  Monday 21 September 2015
+  
+
+  -- Log file to keep track of work done for Art Card Project --
+
+-- 21 September 2015 --
+
+  - 6:13 pm -
+  Created this log file to keep track of work being done on project.
+
+  So, far have made the following layouts:
+      activity_main.xml
+      card_layout.xml
+      list_itme.xml
+
+  The following .java Class files:
+      Card.java			Defines the Card Class.
+      CardActivity.java		Activity to display a Card Class item
+      MainActivity.java		Activity 
+      XMLPullParserHandler.java	Java Class used to Parse cards.xml file.
+
+
+  Currently the main activity displays a search box and button at the top with
+  a ListView below showing the Cards' name and description.
+
+  If a word is typed into the search box and the button pressed the list will
+  be shortened to show only those Cards which have the search term in the Materials List
+
+  If a card is clicked in the list the Card Activity is activated and displays the
+  selected card.
+
+  TODO:: Fix Card Activity layout for horizontal orientation.
+
+  TODO:: Create New Main Activity layout that allows user to choose between:
+        Activity of the Day
+        Random Activity
+        Search for Activity  ( by name, description or materials )
+        View Favorite Activites
+
+   TODO:: add way to save favorited activites
+
+

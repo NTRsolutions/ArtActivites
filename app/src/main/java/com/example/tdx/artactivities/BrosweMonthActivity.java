@@ -2,19 +2,33 @@ package com.example.tdx.artactivities;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
+
+import java.io.IOException;
+import java.util.List;
 
 /**
  * Created by tdx on 10/6/15.
  */
 public class BrosweMonthActivity extends AppCompatActivity {
 
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_browse_month);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
+
+        
+
 
 
     }

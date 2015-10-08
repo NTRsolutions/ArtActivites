@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()) {
 
             case R.id.ButtonCurrentMonth:
-                // todo: add code to load current month
+                myIntent = new Intent(getApplicationContext(), CurrentMonthListDisplayActivity.class);
                 break;
 
             case R.id.ButtonBrowse:

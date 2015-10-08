@@ -35,6 +35,13 @@
 
         </activity>
 
+        <activity android:name=".CurrentMonthListDisplayActivity"
+            android:label="Current Month">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"
+                />
+        </activity>
 
 
     </application>
