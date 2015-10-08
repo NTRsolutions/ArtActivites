@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    android:background="@color/BlueTile01"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/search_name"
+            android:id="@+id/textViewSearchName"
+
+            android:textColor="@color/AntiqueWhite" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextSerachName"
+
+
+            android:textColor="@color/AntiqueWhite" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/serach_materials"
+            android:id="@+id/textViewSearchMaterials"
+
+            android:textColor="@color/AntiqueWhite" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextSearchMaterials"
+
+
+            android:textColor="@color/AntiqueWhite" />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/serach"
+        android:id="@+id/buttonSearchSubmit"
+        android:layout_gravity="center_horizontal"
+
+
+        android:background="@color/BlueTile04"
+        android:textColor="@color/AntiqueWhite" />
+
+</LinearLayout>

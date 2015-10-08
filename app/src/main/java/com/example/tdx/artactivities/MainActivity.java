@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
 
             case R.id.ButtonSearch:
-                // todo: add code to search
+                myIntent = new Intent(getApplicationContext(), SearchScreenActivity.class);
                 break;
 
             case R.id.ButtonFavorites:
