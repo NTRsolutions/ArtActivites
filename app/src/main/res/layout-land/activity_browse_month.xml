@@ -41,7 +41,7 @@
             android:layout_height="match_parent"
             android:layout_weight="0.3"
             android:text="@string/mar"
-            android:id="@+id/ButtonMarch"
+            android:id="@+id/ButtonMar"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:textColor="@color/AntiqueWhite"

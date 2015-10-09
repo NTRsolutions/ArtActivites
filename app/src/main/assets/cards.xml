@@ -6,7 +6,7 @@
 
     <card>
         <id>001</id>
-        <month>Jan</month>
+        <month>January</month>
         <name>Memory Game</name>
         <description>Make the game pieces, then play with your friends.</description>
         <materials>
@@ -14,7 +14,7 @@
             <item>Ruler</item>
             <item>Pencil</item>
             <item>Scissors</item>
-            <item>Markers or paints</item>
+            <item>Marchkers or paints</item>
         </materials>
         <directions>
             <step>Use your ruler and pencil to draw 16 equal squares on the carboard. Cut out all the squares.</step>
@@ -25,7 +25,7 @@
     </card>
     <card>
         <id>002</id>
-        <month>Dec</month>
+        <month>December</month>
         <name>3-D Snowflakes</name>
         <description>Create a winter wonderland with these fun-to-make paper flakes.</description>
         <materials>
@@ -50,7 +50,7 @@
     </card>
     <card>
         <id>003</id>
-        <month>Jan</month>
+        <month>January</month>
         <name>Spinning Tops</name>
         <description>Make these colorful tops and watch them spin.</description>
         <materials>
@@ -58,19 +58,19 @@
             <item>Short pencil, with a point</item>
             <item>Cardboard</item>
             <item>Scissors</item>
-            <item>Markers or craynos</item>
+            <item>Marchkers or craynos</item>
         </materials>
         <directions>
             <step>With your pencil, outline your round object on the cardboard.</step>
             <step>Carefully cut the circle out with your scissors.</step>
-            <step>Use your markers or crayons to draw a funky pattern on the cardboard circle.</step>
+            <step>Use your Marchkers or crayons to draw a funky pattern on the cardboard circle.</step>
             <step>Locate the center point of the circle and gently push the pencil tip through the cardboard.</step>
-            <step>Place a piece of paper under your top, so that you don't get pencil markins on you tabletop. Then, gently spin your top and watch it go!</step>
+            <step>Place a piece of paper under your top, so that you don't get pencil Marchkins on you tabletop. Then, gently spin your top and watch it go!</step>
         </directions>
     </card>
     <card>
         <id>004</id>
-        <month>Mar</month>
+        <month>March</month>
         <name>Piggy Bank</name>
         <description>Save your coins in this friendly bank.</description>
         <materials>
@@ -79,13 +79,13 @@
             <item>Scissors</item>
             <item>Glue</item>
             <item>Acrylic paint</item>
-            <item>Markers</item>
+            <item>Marchkers</item>
             <item>Construction paper</item>
             <item>Pipe cleaner</item>
         </materials>
         <directions>
             <step>Cut out four of the egg cups from the bottom of the egg carton. Position your milk carton so that the handle is faceing up. Glue the four egg cups to the bottom of the carton to create legs for your pig. Set it aside to dry.</step>
-            <step>Next, paint the entire pig. After the paint has dried, add eyes and nostrils with your markers.</step>
+            <step>Next, paint the entire pig. After the paint has dried, add eyes and nostrils with your Marchkers.</step>
             <step>For the ears, cut two triangles from the construction paper and glue them to your pig. Then, wrap the pipe cleaner around your finger a few times to create a coil.</step>
             <step>Finally, ask an adult to cut a coin slit in the top and a small hole in the back. Poke one end of your pipe cleaner into the hole for a tail.</step>
             <step>Start saving your coins!</step>
@@ -93,7 +93,7 @@
     </card>
     <card>
         <id>005</id>
-        <month>dec</month>
+        <month>December</month>
         <name>New Year's Noisemakers</name>
         <description>Ring in the New Year with this homemade noisemaker.</description>
         <materials>
@@ -101,12 +101,12 @@
             <item>A handful of dried beans or coins</item>
             <item>Glue</item>
             <item>Stapler</item>
-            <item>Markers</item>
+            <item>Marchkers</item>
             <item>Hole punch</item>
             <item>Ribbon</item>
         </materials>
         <directions>
-            <step>Using your markers, decorate the bottom of both paper plates with stars, stripes, dots, or whatever you like.</step>
+            <step>Using your Marchkers, decorate the bottom of both paper plates with stars, stripes, dots, or whatever you like.</step>
             <step>Turn one of the plates over and place a handful dried beans or coins on the plate.</step>
             <step>Carefully apply glue around the rim of the paper plate containing the beans or coins.</step>
             <step>Next, match the rim of the other plate to the glued edge. You can add a few staples aroudn the edges of the two plates to reinforce the glue. Allow the glue to dry overnight.</step>
@@ -116,7 +116,7 @@
     </card>
     <card>
         <id>006</id>
-        <month>Jun</month>
+        <month>June</month>
         <name>Recycled Bird Feeder</name>
         <description>Use an empty egg carton to feed your feathered friends.</description>
         <materials>
@@ -137,13 +137,13 @@
 
     <card>
         <id>007</id>
-        <month>Mar</month>
+        <month>March</month>
         <name>Bunny Ears</name>
         <description>Celebrate Easter in sytle.</description>
         <materials>
             <item>White poster board</item>
             <item>Scissors</item>
-            <item>Markers of crayons</item>
+            <item>Marchkers of crayons</item>
             <item>Glue</item>
             <item>Stapler</item>
             <item>Cotton ball</item>
@@ -158,7 +158,7 @@
     </card>
     <card>
         <id>008</id>
-        <month>Jan</month>
+        <month>January</month>
         <name>Party Hat</name>
         <description>Why buy a party hat, when you can make your own?</description>
         <materials>
@@ -169,7 +169,7 @@
             <item>Construction paper</item>
             <item>Hole punch</item>
             <item>String or ribbon</item>
-            <item>Markers</item>
+            <item>Marchkers</item>
         </materials>
         <directions>
             <step>Curl your poster board into a large cone shape. Overlap the edges of your cone and staple them together to secure.</step>
@@ -177,14 +177,14 @@
             <step>Cut your construction paper to approximately 3x5" (8x13cm). Create fringe by cutting several slits along the long edge of the paper, leaving about an inch (3cm) of the other long edge uncut.</step>
             <step>Carefully wrap the uncut edge of the fringe paper aroudn the point of the hat and glue it in place. Gently fold the fringe pieces down to create more texture.</step>
             <step>Punch one hole on either side of the hat near the bottom. Cut two 12" (30 cm) pieces of ribbion inside the hat. Repeat on the other side.</step>
-            <step>Decorate your hat with markers.</step>
+            <step>Decemberorate your hat with Marchkers.</step>
             <step>Get the party started by placing the hat on your head and trying the ribbon in a nice bow below your chin.</step>
         </directions>
     </card>
 
     <card>
         <id>009</id>
-        <month>Jul</month>
+        <month>July</month>
         <name>Sidewalk Chalk Bull's Eye</name>
         <description>Practice your aim by yourself or compete against your friends.</description>
         <materials>
@@ -201,7 +201,7 @@
 
     <card>
         <id>010</id>
-        <month>Jan</month>
+        <month>January</month>
         <name>Pasta Jewlery</name>
         <description>String dry pasta to make colorful costume jewelry.</description>
         <materials>
@@ -224,7 +224,7 @@
     </card>
     <card>
         <id>011</id>
-        <month>Jan</month>
+        <month>January</month>
         <name>Milk Carton Paddleboat</name>
         <description>Splash in the tub with this sleek, self-propelled paddleboat.</description>
         <materials>
@@ -242,12 +242,12 @@
     </card>
     <card>
         <id>012</id>
-        <month>Feb</month>
+        <month>Febuary</month>
         <name>Hairy Pets</name>
         <description>You can be the barber for this happy hairy pet.</description>
         <materials>
             <item>Paper cup</item>
-            <item>Markers</item>
+            <item>Marchkers</item>
             <item>Potting soil</item>
             <item>Small rocks</item>
             <item>Grass seeds</item>
@@ -255,14 +255,14 @@
             <item>Scissors</item>
         </materials>
         <directions>
-            <step>With markers, draw your pet's face on your cup and color it however you like.</step>
+            <step>With Marchkers, draw your pet's face on your cup and color it however you like.</step>
             <step>Place a handful of small rocks in the bottom of you cup, then fill it nearly to the top with soil, and sprinkle with grass seeds. Cover the seeds with about ¼ (¾cm) more soil. Add a little water.</step>
             <step>Keep your pet in the window and watch for hair growth. Add water every few days or when it becomes dry. When the grass gets long, trim it with scissors.</step>
         </directions>
     </card>
     <card>
         <id>013</id>
-        <month>Jun</month>
+        <month>June</month>
         <name>Stars and Stripes Wind Sock</name>
         <description>Celebrate flag day with this homemade wind sock.</description>
         <materials>
@@ -274,7 +274,7 @@
             <item>Streamers (perferably red and white)</item>
         </materials>
         <directions>
-            <step>Cut out several stars from the white paper. Glue these stars to one side of an 11x17" (28x43cm) piece of blue construction paper. If you don't have blue paper, use markers or crayons to decorate your paper.</step>
+            <step>Cut out several stars from the white paper. Glue these stars to one side of an 11x17" (28x43cm) piece of blue construction paper. If you don't have blue paper, use Marchkers or crayons to decorate your paper.</step>
             <step>Create a cylinder shape by stapling the short ends of teh 11x17" (28x43cm) paper together.</step>
             <step>Cut eight streamers (four red, four whiteO to approximately 24" (60cm) each. Staple one end of each streamer to the insdie of the bottom edge of the cylinder. Be sure to alternate colors: red, white, red, white, etc.</step>
             <step>Punch three hoels evenly spaced aroudn the top edge of the cylinder. Carefully tie a 12" (30cm) piece of string to each hole. Then, tie the opposite ends together.</step>
@@ -299,7 +299,7 @@
     </card>
     <card>
         <id>015</id>
-        <month>Feb</month>
+        <month>Febuary</month>
         <name>Ballon Rice Balls</name>
         <description>These homemade balls are great for juggling or a game of catch.</description>
         <materials>
@@ -318,7 +318,7 @@
     </card>
     <card>
         <id>016</id>
-        <month>Mar</month>
+        <month>March</month>
         <name>Rock Critters</name>\
         <description>Place these critters in the garden or on your desk.</description>
         <materials>
@@ -336,7 +336,7 @@
     <card>
         <id>017</id>
         <name>Boomerang</name>
-        <month>Apr</month>
+        <month>April</month>
         <description>Toss this boomerang and watch it come back to you.</description>
         <materials>
             <item>Cardboard</item>
@@ -344,11 +344,11 @@
             <item>Pencil</item>
             <item>Scissors</item>
             <item>Stapler</item>
-            <item>Acrylic paints or markers</item>
+            <item>Acrylic paints or Marchkers</item>
         </materials>
         <directions>
             <step>Measure and cut out two strips of cardboard approximately 2x12" (5x30cm) long. Round out the corners with your scissors.</step>
-            <step>Place one strip over the other and line up the center points to from a "+". Staple the two pieces together at the intersection. Decorate the boomerang with paint and markers and allow it to dry.</step>
+            <step>Place one strip over the other and line up the center points to from a "+". Staple the two pieces together at the intersection. Decorate the boomerang with paint and Marchkers and allow it to dry.</step>
             <step>Fold the four ends of your boomerang up, about an inch (3cm) from the edge.</step>
             <step>Find a wide-open area, outside. Hold your boomerang by one of the "arms" and flip your wrist while you release it. It should come flying back to you. Try out different throwing techniques to see what works best for you.</step>
         </directions>
