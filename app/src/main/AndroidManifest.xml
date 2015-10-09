@@ -49,6 +49,14 @@
                 android:value=".BrosweMonthActivity"
                 />
         </activity>
+        <activity android:name=".SearchResultsDisplayActivity"
+            android:label="Search Results">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SearchScreenActivity"
+                />
+        </activity>
+
 
 
     </application>
