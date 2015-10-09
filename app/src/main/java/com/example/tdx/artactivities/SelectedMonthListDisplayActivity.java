@@ -44,6 +44,10 @@ public class SelectedMonthListDisplayActivity extends AppCompatActivity implemen
         String text = parent.getItemAtPosition(position).toString();
         Card selectedCard = (Card) parent.getItemAtPosition(position);
         Log.d("********", selectedCard.getDescription());
+        Intent myIntent = new Intent(getApplicationContext(), DispalyCardActivity.class);
+        myIntent.putExtra("MyCard", selectedCard);
+        startActivity(myIntent);
+
 
     }
 

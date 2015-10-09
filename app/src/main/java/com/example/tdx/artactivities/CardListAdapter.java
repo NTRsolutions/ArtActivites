@@ -54,7 +54,7 @@ public class CardListAdapter extends ArrayAdapter<Card> {
 
         Card card = data.get(position);
         holder.txtTitle.setText(card.getName());
-        //holder.imgIcon.setImageResource();
+        holder.imgIcon.setImageResource(card.getImageID(getContext()));
         holder.txtDescription.setText(card.getDescription());
 
         return row;

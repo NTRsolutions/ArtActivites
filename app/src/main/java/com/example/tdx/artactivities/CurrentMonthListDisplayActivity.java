@@ -1,5 +1,6 @@
 package com.example.tdx.artactivities;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -52,6 +53,9 @@ public class CurrentMonthListDisplayActivity extends AppCompatActivity implement
         String text = parent.getItemAtPosition(position).toString();
         Card selectedCard = (Card) parent.getItemAtPosition(position);
         Log.d("********", selectedCard.getDescription());
+        Intent myIntent = new Intent(getApplicationContext(), DispalyCardActivity.class);
+        myIntent.putExtra("MyCard", selectedCard);
+        startActivity(myIntent);
 
     }
 

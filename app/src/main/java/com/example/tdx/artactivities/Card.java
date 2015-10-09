@@ -1,5 +1,10 @@
 package com.example.tdx.artactivities;
 
+import android.content.Context;
+import android.content.res.Resources;
+import android.graphics.drawable.Drawable;
+import android.util.Log;
+
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
@@ -15,10 +20,30 @@ public class Card implements Serializable {
     private String description;
     private List<String> materials;
     private List<String> directions;
+    private int imageID;
+
 
     public Card() {
         materials = new ArrayList<String>();
         directions = new ArrayList<String>();
+    }
+
+    public int getImageID(Context context) {
+
+        int resId;
+        Resources res = context.getResources();
+        try {
+            resId = res.getIdentifier(getCardImageName(), "drawable", context.getPackageName());
+
+        } catch (Exception e){
+            resId = res.getIdentifier("default_list_icon", "drawable", context.getPackageName());
+        }
+        String resString = String.valueOf(resId);
+        Log.d("---- resId = ", resString);
+        if (resId == 0) {
+            resId = res.getIdentifier("default_list_icon", "drawable", context.getPackageName());
+        }
+        return resId;
     }
 
     public int getId() { return id;}
