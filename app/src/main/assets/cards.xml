@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cards>
 
-
-
-
     <card>
         <id>001</id>
         <month>January</month>
@@ -353,4 +350,232 @@
             <step>Find a wide-open area, outside. Hold your boomerang by one of the "arms" and flip your wrist while you release it. It should come flying back to you. Try out different throwing techniques to see what works best for you.</step>
         </directions>
     </card>
+    <card>
+        <id>018</id>
+        <name>Wooden Spoon Puppets</name>
+        <month>May</month>
+        <description>Meet the Spooner Family, and take them to the theater.</description>
+        <materials>
+            <item>Wooden spoons of different sizes</item>
+            <item>Markes</item>
+            <item>Construction paper of felt</item>
+            <item>Yarn</item>
+            <item>Glue</item>
+        </materials>
+        <directions>
+            <step>Decide what characters you would like ot have in your puppet show. Make the Spooner Family, your own family, or classic characters, like a princess and a frog, Maybe make puppets to play Little Red Riding Hood? It's up to you.</step>
+            <step>Using markers, draw and color faces on the bowl of each spoon. First decide if you want the faces to be rounded out toward the audience, or scooped in ... then decorate both the front and the back of each character.</step>
+            <step>If your character has hair, make it out of yarn and glue it on to the top of the spoon. It's funny if some hair hangs loose and flips around when you move the puppets.</step>
+            <step>Use construction paper of felt to make other accessories, like hats, crowns, glasses, mustaches, or even caps.</step>
+            <step>Invite your friends to a puppet show!</step>
+        </directions>
+    </card>
+       <card>
+        <id>019</id>
+        <name>Cupcake Carnations</name>
+        <month>May</month>
+        <description>Summer lasts a little longer when you make these sweet little flowers.</description>
+        <materials>
+            <item>Paper cupcake wrappers of differnt colors</item>
+            <item>Green pipe cleaners</item>
+            <item>Perfume</item>
+        </materials>
+        <directions>
+            <step>Take a cupcake wrapper and poke a hole in the center of it with the end of a pipe cleaner.</step>
+            <step>Choose a cupcake wrapper of a different color. Poke a hole in the bottom of this wrapper and thread it onto the pipe cleaner.</step>
+            <step>Experiment with layering different colors and crumpling the cupcake wrappers to make the flowers take differnt shapes. You can use three or even four cupcake wrappers per flower.</step>
+            <step>Dab or spray a little perfume on your carnations.</step>
+            <step>Give them to somebody you love!</step>
+        </directions>
+    </card> 
+    <card>
+        <id>020</id>
+        <name>Cereal Necklaces</name>
+        <month>May</month>
+        <description>You won't need to pack a snack when you wear a cereal necklace.</description>
+        <materials>
+            <item>O-Shaped cereal</item>
+            <item>String</item>
+        </materials>
+        <directions>
+            <step>Measure a length of string for you necklace. Make sure it will fit over your head after you've tied a knot in it.</step>
+            <step>Gently tie one piece of ceral onto the end of your string to form a stopper. Then string cereal onto your string, just like you would do with beads. You can go with one kind of cereal for a classic look, or mix a bunch of different cereals for an artsy look.</step>
+            <step>Leave a couple inches of empty string at the end. Break the first piece of cereal you tied to the string, then take the two ends of string and tie them together in a double knot.</step>
+            <step>Wear your necklace and always say thank you when you recieve compliments on it. When you get a little bit hungry, bite off an O or two. They're not just for breakfast anymore!</step>
+        </directions>
+    </card> 
+    <card>
+        <id>021</id>
+        <name>Ribbon Placemats</name>
+        <month>May</month>
+        <description>Decorate your table with these lovely placemats.</description>
+        <materials>
+            <item>Ribbon in at least 2 different colors</item>
+            <item>Glue</item>
+            <item>Tape</item>
+        </materials>
+        <directions>
+            <step>Cut an 18" (46cm) length of ribbon, lay it horizontally on the table, and tape the ends of it down. Cut ten more pieces of the same length and set aside. You may need more, depending on the width of your ribbon.</step>
+            <step>Cut a series of 12" (30cm) lengths of ribbon and line them up perpendicular to the ribbon on the table. Alternate sticking them to the horizontal ribon with a dab of glue: the first one on top, the next one on the underside, the third one on top, and so-on.</step>
+            <step>Weave the remaining 18" (46cm) lengths of ribbon in and out of the 12" (30cm) ribbons, alternating starting on top and starting on the bottom.</step>
+            <step>Finsih by puttin ga dab of glue between the ribbons that overlap, all the way aroudn the edges, and allow to dry. Pull the tape off the table and off the ribbon where you started. Enjoy lunch on your fancy new placemat.</step>
+        </directions>
+    </card> 
+    <card>
+        <id>022</id>
+        <name>Fuzy Buddies</name>
+        <month>August</month>
+        <description>We can all use more friends, and these friends are extra warm and fuzzy.</description>
+        <materials>
+            <item>Yarn in different colors</item>
+            <item>Felt in different colors</item>
+            <item>Googly eyes</item>
+            <item>Glue</item>
+            <item>Scissors</item>
+        </materials>
+        <directions>
+            <step>Make a peace sign with your non-scissors-using hand, then put the two fingers that are sticking out together. Take yarn and gently wrap it aroudn those two fingers about 75 times.</step>
+            <step>Ask an adult to carefully slip the scissors between your two fingers and cut the whole bundle of yarn. It will pop off your fingers onto the table. Then, cut the yarn pieces in half and gather them into a pile.</step>
+            <step>Cut a piece of yarn about 8" (20cm) ong, and lay it on the table. Place your pile of short yarn pieces crosswise on the single piece of yarn. Bring the ends of the single piece up and tie them in a very tight knot, forcing the short yarn pieces into a tight bundle ... somwhat resembling a pom pom.</step>
+            <step>Give it a haircut. Use the scissors to trim the ends of the strands of yarn that are sticking out, until you get a nice round fuzzball.</step>
+            <step>Cut a heart-shaped piece of felt a little bit bigger than your fuzzball, set it on the table, add a dab of glue, and set your fuzzball on it. Now you have made little shoes for you Fuzzy Buddy. Glue on googly eyes, and a different colored piece of yarn for a happy smile. Use felt to make hats, sunglasses, clothes, and all kinds of fuzzy accessories for your new buddy of fuzz. Then make some fuzzy friends for your first Fuzzy Buddy.</step>
+        </directions>
+    </card> 
+    <card>
+        <id>023</id>
+        <name>Potted Pinwheels</name>
+        <month>July</month>
+        <description>Decorate for the 4th of July with these festive pinwheels.</description>
+        <materials>
+            <item>6" (15cm) square of paper</item>
+            <item>Markers or crayons</item>
+            <item>Scissors</item>
+            <item>Push pin</item>
+            <item>Pencil with an eraser</item>
+        </materials>
+        <directions>
+            <step>Start by folding your square in half diagonally. Unfold. Fold diagonally in the opposite direction. Unfold. Your paper shoudl now have crease marks in the shape of an "X". Decorate both sides of the paper with markers or crayons.</step>
+            <step>Cut slits along each crease from the corner, to approximately 1" (2.5 cm) from the center point. You should have four triangles connected at the center.</step>
+            <step>Gently curl one corner up to the center point and hold in place. Repeat this curling with every other corner. Carefully insert pushpin through each corner and the center point. You may need someone to help you with this step.</step>
+            <step>Finally, insert the pushpin into the eraser of your pencil. Now, you can poke your pencil into the dirt of a potted plant and wait for a breeze to push your pinwheel around and around.</step>
+        </directions>
+    </card> 
+    <card>
+        <id>024</id>
+        <name>Clothespin Paratroopers</name>
+        <month>September</month>
+        <description>Launch a platoon of paratroopers in your own backyard.</description>
+        <materials>
+            <item>Round-headed clothespin (the type with no spring)</item>
+            <item>Plastic grocery bag</item>
+            <item>Thread</item>
+            <item>Scissors</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Cut the handles off the grocery bag and cut the sides open. You want to end up with a square of plastic approximately 12" (30cm) in size. You may even be able to get two squares from one bag.</step>
+            <step>Using markers, decorate your clothespin paratrooper with a face, hair and a unifrom. Maybe even a mustache.</step>
+            <step>Cut four 12" lengths of thread, and tighly tie the end of each thread to each of the corners of your plastic square. Tie the opposite ends of all 4 threads together in a knot.</step>
+            <step>Cut another length of thread a few inches long, and tie on end around your paratrooper's neck and the other to the know where your parachute threads meet. Prepare for launch!</step>
+            <step>Vey loosely wind the plastic parachute aroudn your clothespin and toss it up into the air. Your paratrooper will gently sail down and make a happy landing on the ground.</step>            
+        </directions>
+    </card> 
+        <card>
+        <id>025</id>
+        <name>Fantastic Fuzzyfelt</name>
+        <month>May</month>
+        <description>Create ever-changing scenes straight from your imagination.</description>
+        <materials>
+            <item>Felt in many colors</item>
+            <item>Scissors</item>
+            <item>Sturdy cardboard</item>
+            <item>Glue</item>
+            <item>Foam brush</item>
+        </materials>
+        <directions>
+            <step>Choose a dark color of felt for the background board, such as black or dark navy blue.</step>
+            <step>Cut your cardboard to match the size of a full sheet of felt. Spread a thin layer of glue all over your cardboard with the foam brush and gently press the felt into place. Let it dry. You can buy a sheet of adhesive-backed felt instead ... then just peel and stick.</step>
+            <step>Cut out all sorts of shapes from your other felt colors. Make most pieces less than 1" (2.5cm) in size.</step>
+            <step>Once you have a whole bunch of shapes cut out, have fun arranging them all over your felt board. Create beautiful designs, creatures, houses, landscapes, flowers ... anything you want to dream up. You don't need any more glue; the fuzz on the backboard will hold the fuzzy felt shapes in place, but it's easy to pick them up and move them around. Have fuzzyfelt fun!</step>            
+        </directions>
+    </card> 
+    <card>
+        <id>026</id>
+        <name>Cork Horses</name>
+        <month>March</month>
+        <description>Make a fine filly from popped corks. Your cork horse can't trot, but he can flaot!</description>
+        <materials>
+            <item>7 corks</item>
+            <item>Yarn</item>
+            <item>Glue</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Gather all your corks. Glue them together in the shape of a horse. Start by gluing the legs to the body. Then add the neck and the head. Allow the glue to dry completely.</step>
+            <step>Use markers to draw eyes and a mouth on your horse. You can add a bridle and a saddle, too.</step>
+            <step>Cut some yarn and glue it on to from a mane and a tail. Giddy-up!</step>
+        </directions>
+    </card> 
+    <card>
+        <id>026</id>
+        <name>Nutty Bugs</name>
+        <month>May</month>
+        <description>Scoot these crazy little bugs all over the place!</description>
+        <materials>
+            <item>Walnut shells</item>
+            <item>Marbles</item>
+            <item>Googly eyes</item>
+            <item>Markers</item>
+            <item>Felt</item>
+            <item>Glue</item>
+        </materials>
+        <directions>
+            <step>Take a walnut half-shell and decorate it with markers to look like a critter. You can make a spider, ladybug, fly, or some kind of crazy looking bug that hasn't been discovered yet!</step>
+            <step>Cut felt legs and glue them to the edges of the nutshell. Add some googly eyes if you'd like. Make them look real, or make them look silly, it's up to you.</step>
+            <step>When you've finished decorating and the glue has had time to dry, palce a marble under each shell and scoot your bugs around on a table, floor, or any smooth surface. They'll skitter all over the place!</step>
+        </directions>
+    </card> 
+    <card>
+        <id>027</id>
+        <name>Pet Pencil Holder</name>
+        <month>May</month>
+        <description>Make a pencil holder that looks like your favorite furry friend.</description>
+        <materials>
+            <item>Empty soup can (washed and dried)</item>
+            <item>Construction paper</item>
+            <item>Scissors</item>
+            <item>Tape</item>
+            <item>Glue</item>
+            <item>Buttons</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Cut a rectangular piece of construction paper. Wrap it aroudn the can and tape to secure.</step>
+            <step>Let your imagination run wild! Turn your can into a cat, dog, or anything you wish.</step>
+            <step>Glue the buttons on to make eyes. Cut out construction paper for ears. Use your markers to add details.</step>
+        </directions>
+    </card> 
+    <card>
+        <id>028</id>
+        <name>Postcard Placemat</name>
+        <month>May</month>
+        <description>This is a great way to use postcards that you've recieved.</description>
+        <materials>
+            <item>Thin cardboard (a large cereal box works well)</item>
+            <item>Scissors</item>
+            <item>Postcards</item>
+            <item>Glue</item>
+            <item>Contact paper</item>
+        </materials>
+        <directions>
+            <step>Cut your cardobard to the size of a placemat.</step>
+            <step>Gather the postcards you'd liek to use. Glue them to one side of the cardboard. Overlap the cards for a nice collage. Allow the glue to dry.</step>
+            <step>Ask an adult to help you cover your placemat with contact paper.</step>
+        </directions>
+    </card> 
+
+
+
+
+
 </cards>
