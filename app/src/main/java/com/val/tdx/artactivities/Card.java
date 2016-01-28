@@ -8,7 +8,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
+/*
  * Created by Tyler Decker on 9/17/15.
  */
 public class Card implements Serializable {
@@ -38,7 +38,6 @@ public class Card implements Serializable {
             resId = res.getIdentifier("default_list_icon", "drawable", context.getPackageName());
         }
         String resString = String.valueOf(resId);
-        Log.d("---- resId = ", resString);
         if (resId == 0) {
             resId = res.getIdentifier("default_list_icon", "drawable", context.getPackageName());
         }
