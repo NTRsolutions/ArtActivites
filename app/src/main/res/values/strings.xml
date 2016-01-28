@@ -6,6 +6,7 @@
 
     <string name="search_name">Name: </string>
     <string name="serach_materials">Materials: </string>
+    <string name="serach_terms">Search Terms: </string>
 
     <string name="serach">Search</string>
     <string name="action_star">Star</string>

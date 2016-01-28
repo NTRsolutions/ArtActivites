@@ -1,4 +1,4 @@
-package com.example.tdx.artactivities;
+package com.val.tdx.artactivities;
 
 import android.app.Activity;
 import android.content.Context;
@@ -12,7 +12,7 @@ import android.widget.TextView;
 import java.util.List;
 
 /**
- * Created by tdx on 10/8/15.
+ * Created by Tyler Decker on 10/8/15.
  */
 public class CardListAdapter extends ArrayAdapter<Card> {
 
@@ -41,9 +41,9 @@ public class CardListAdapter extends ArrayAdapter<Card> {
             row = inflater.inflate(layoutResourceId, parent, false);
 
             holder = new CardHolder();
-            holder.imgIcon = (ImageView)row.findViewById(R.id.list_row_icon);
-            holder.txtTitle = (TextView)row.findViewById(R.id.list_row_name);
-            holder.txtDescription = (TextView)row.findViewById(R.id.list_row_description);
+            holder.imgIcon = (ImageView)row.findViewById(com.val.tdx.artactivities.R.id.list_row_icon);
+            holder.txtTitle = (TextView)row.findViewById(com.val.tdx.artactivities.R.id.list_row_name);
+            holder.txtDescription = (TextView)row.findViewById(com.val.tdx.artactivities.R.id.list_row_description);
 
             row.setTag(holder);
         }

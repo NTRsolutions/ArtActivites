@@ -1,22 +1,19 @@
-package com.example.tdx.artactivities;
+package com.val.tdx.artactivities;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Menu;
+import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageButton;
 
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-
-
     ImageButton currentMonthButton;
     ImageButton browseButton;
     ImageButton searchButton;
-    ImageButton favoritesButton;
-
-
+    ImageButton randomButton;
+    Cards cards;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,69 +23,46 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         currentMonthButton = (ImageButton) findViewById(R.id.ButtonCurrentMonth);
         browseButton = (ImageButton) findViewById(R.id.ButtonBrowse);
         searchButton = (ImageButton) findViewById(R.id.ButtonSearch);
-        favoritesButton = (ImageButton) findViewById(R.id.ButtonFavorites);
+        randomButton = (ImageButton) findViewById(R.id.ButtonRandom);
 
         currentMonthButton.setOnClickListener(this);
         browseButton.setOnClickListener(this);
         searchButton.setOnClickListener(this);
-        favoritesButton.setOnClickListener(this);
+        randomButton.setOnClickListener(this);
 
-    }
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main, menu);
-        return true;
     }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-
-        //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             return true;
         }
-
         return super.onOptionsItemSelected(item);
     }
-
 
     @Override
     public void onClick(View v) {
         Intent myIntent = null;
-
         switch (v.getId()) {
-
             case R.id.ButtonCurrentMonth:
                 myIntent = new Intent(getApplicationContext(), CurrentMonthListDisplayActivity.class);
                 break;
-
             case R.id.ButtonBrowse:
                 myIntent = new Intent(getApplicationContext(), BrosweMonthActivity.class);
                 break;
-
             case R.id.ButtonSearch:
                 myIntent = new Intent(getApplicationContext(), SearchScreenActivity.class);
                 break;
-
-            case R.id.ButtonFavorites:
-                // todo: add code to load favorites
+            case R.id.ButtonRandom:
+                cards = new Cards(this);
+                Card selectedCard = cards.getRandomCard();
+                myIntent = new Intent(getApplicationContext(), DispalyCardActivity.class);
+                myIntent.putExtra("MyCard", selectedCard);
                 break;
-
             default:
                 break;
         }
-
         if (myIntent != null) { startActivity(myIntent); }
-
-
-
     }
-
-
 }

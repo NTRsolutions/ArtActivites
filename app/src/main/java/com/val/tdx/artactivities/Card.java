@@ -1,8 +1,7 @@
-package com.example.tdx.artactivities;
+package com.val.tdx.artactivities;
 
 import android.content.Context;
 import android.content.res.Resources;
-import android.graphics.drawable.Drawable;
 import android.util.Log;
 
 import java.io.Serializable;
@@ -10,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by tdx on 9/17/15.
+ * Created by Tyler Decker on 9/17/15.
  */
 public class Card implements Serializable {
 

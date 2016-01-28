@@ -1,4 +1,4 @@
-package com.example.tdx.artactivities;
+package com.val.tdx.artactivities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -6,16 +6,15 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import java.io.IOException;
+import com.val.tdx.artactivities.R;
+
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.List;
 
 /**
- * Created by tdx on 10/8/15.
+ * Created by Tyler Decker on 10/8/15.
  */
 public class CurrentMonthListDisplayActivity extends AppCompatActivity implements  AdapterView.OnItemClickListener {
 
@@ -52,7 +51,6 @@ public class CurrentMonthListDisplayActivity extends AppCompatActivity implement
     public void onItemClick(AdapterView<?> parent, View v, int position, long id) {
         String text = parent.getItemAtPosition(position).toString();
         Card selectedCard = (Card) parent.getItemAtPosition(position);
-        Log.d("********", selectedCard.getDescription());
         Intent myIntent = new Intent(getApplicationContext(), DispalyCardActivity.class);
         myIntent.putExtra("MyCard", selectedCard);
         startActivity(myIntent);

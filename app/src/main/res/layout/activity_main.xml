@@ -58,8 +58,8 @@
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:id="@+id/ButtonFavorites"
-            android:src="@drawable/star"
+            android:id="@+id/ButtonRandom"
+            android:src="@drawable/random"
 
             android:layout_weight="0.5"
             android:scaleType="fitCenter"

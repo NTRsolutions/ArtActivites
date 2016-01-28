@@ -1,22 +1,24 @@
-package com.example.tdx.artactivities;
+package com.val.tdx.artactivities;
 
 import android.content.Context;
 import android.util.Log;
-import android.widget.Switch;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 /**
- * Created by tdx on 10/9/15.
+ * Created by Tyler Decker on 10/9/15.
  */
 public class Cards {
 
     List<Card> cards;
+    private Random rnd;
 
     public Cards(Context context) {
 
+        rnd = new Random();
         try {
             XMLPullParserHandler parser = new XMLPullParserHandler();
             cards = parser.parse(context.getAssets().open("cards.xml"));
@@ -25,6 +27,15 @@ public class Cards {
         }
 
     }
+
+    public int getSize() { return cards.size();}
+
+    public Card getRandomCard() {
+
+        int index = rnd.nextInt(cards.size());
+        return cards.get(index);
+    }
+
 
     public List<Card> getCards() {
         return cards;
@@ -46,6 +57,10 @@ public class Cards {
         return rtnCards;
     }
 
+    public List<Card> search(String term) {
+
+        return search(term, term);
+    }
 
     public List<Card> search(String name, String materials) {
         List<Card> rtnCards = new ArrayList<Card>();
@@ -53,13 +68,7 @@ public class Cards {
         boolean curFound = false;
 
         for (Card curCard : cards) {
-
-            Log.d("&&&&&&&&&&&&&&", curCard.toString().toLowerCase());
-            Log.d("### sName =", name);
-
-
             if (!name.isEmpty() && curCard.toString().toLowerCase().contains(name.toLowerCase())) {
-                Log.d("^^^^^^^^^^^^^^^^^", "add");
                 rtnCards.add(curCard);
                 continue;
             }
@@ -67,12 +76,8 @@ public class Cards {
             if (!materials.isEmpty()) {
                 listMatierals = curCard.getMaterials_List();
                 for (String item : listMatierals) {
-                    Log.d("-----------", item.toLowerCase());
-                    Log.d("### sMaterials=", materials.toLowerCase());
-
 
                     if (item.toLowerCase().contains(materials.toLowerCase())) {
-                        Log.d("$$$$$$$$$$$$$$$$$", "add");
                         rtnCards.add(curCard);
                         break;
                     }

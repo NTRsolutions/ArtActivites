@@ -1,4 +1,4 @@
-package com.example.tdx.artactivities;
+package com.val.tdx.artactivities;
 
 
 import android.util.Log;
@@ -10,30 +10,11 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by tdx on 9/17/15.
- */
-
-
-import android.util.Log;
-
-import org.xmlpull.v1.XmlPullParser;
-import org.xmlpull.v1.XmlPullParserFactory;
-
-import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.List;
-
-/**
- * Created by tdx on 9/17/15.
- */
 public class XMLPullParserHandler {
 
     List<Card> cards;
-
     private Card card;
     private String text;
-
     public XMLPullParserHandler() {
         cards = new ArrayList<Card>();
 
@@ -42,7 +23,6 @@ public class XMLPullParserHandler {
     public List<Card> getCards() {
         return cards;
     }
-
     public List<Card> parse(InputStream is) {
 
         XmlPullParserFactory factory = null;
@@ -63,7 +43,6 @@ public class XMLPullParserHandler {
 
                         if (tagname.equalsIgnoreCase("card")) {
                             card = new Card();
-                            Log.d("my app", "new card");
                         }
                         break;
                     case XmlPullParser.TEXT:
@@ -74,7 +53,6 @@ public class XMLPullParserHandler {
 
                         if (tagname.equalsIgnoreCase("card")) {
                             cards.add(card);
-                            Log.d("myapp", "add card");
                         } else if (tagname.equalsIgnoreCase("name")) {
                             card.setName(text);
                         } else if (tagname.equalsIgnoreCase("id")) {
