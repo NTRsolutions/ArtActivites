@@ -777,6 +777,47 @@
             <step>Finally, loop the end of the string and tie a knot. Your snowman is ready to hang out.</step>
         </directions>
     </card>
+    <card>
+        <id>040</id>
+        <month>February</month>
+        <name>Paper Beads</name>
+        <description>These beads are great for making backpack ornaments or jewelry.</description>
+        <materials>
+            <item>Colored paper</item>
+            <item>Ruler</item>
+            <item>Pencil</item>
+            <item>Scissors</item>
+            <item>Straw</item>
+            <item>Glue</item>
+            <item>Dental floss</item>
+        </materials>
+        <directions>
+            <step>Make a ¾" (2 cm) line on an edge of your colored paper. Then, with your pencil make a small dot 6" (15 cm) up from the middle of your ¾" (2 cm) line.</step>
+            <step>Using your pencil and ruler, draw lines connecting the dot to both ends of your ¾" (2 cm) line. You should have a long, skinny triangle.</step>
+            <step>Cut out the triangle. Trace it several times onto your colored paper. Cut out all the triangles.</step>
+            <step>Tightly wrap one of the paper triangles around your straw until you are about an inch (3 cm) from the end point of the paper.</step>
+            <step>Place a very small dab of glue on the end point of the triangle. Secure the pointed end to the rest of the rolled paper and smooth down the edges with your straw.</step>
+            <step>Repeat this process to make as many beads as you'd like. String the beads onto a piece of dental floss to make a bracelet, a necklace, or a backpack ornament.</step>
+        </directions>
+    </card>
+    <card>
+        <id>041</id>
+        <month>October</month>
+        <name>Homemade Checkerboard</name>
+        <description>Use your favorite colors to make your own board.</description>
+        <materials>
+            <item>12" (32 cm) square of cardboard</item>
+            <item>Ruler</item>
+            <item>Pencil</item>
+            <item>Acrylic paints</item>
+            <item>24 bottle caps or buttons (12 or one color, 12 of another color)</item>
+        </materials>
+        <directions>
+            <step>With your ruler an pencil, mark each edge of your cardboard square every 1½" (4 cm). Then draw straight lines connecting the opposite edge marks to create a perfect grid.</step>
+            <step>Next, paint every other box with your favorite color. Paint the remaining squares with a different color or leave them blank.</step>
+            <step>Use bottle caps or buttons as your game pieces and challenge a friend to a game of checkers!</step>
+        </directions>
+    </card>
     <!--
     <card>
         <id></id>
