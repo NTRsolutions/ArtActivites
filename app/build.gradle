@@ -4,7 +4,7 @@ android {
     compileSdkVersion 23
     buildToolsVersion "23.0.1"
     defaultConfig {
-        applicationId 'com.val.tdx.artactivities'
+        applicationId 'com.gatewaytosuccess.craftymadness'
         minSdkVersion 14
         targetSdkVersion 23
         versionCode 1

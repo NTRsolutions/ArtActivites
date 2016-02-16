@@ -42,9 +42,9 @@
             android:layout_height="wrap_content"
             android:id="@+id/card_imageView"
             android:src="@drawable/card_003"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentEnd="true" />
+            android:layout_below="@+id/card_description"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -54,7 +54,7 @@
             android:text="Materials"
             android:id="@+id/textView"
             android:layout_marginTop="29dp"
-            android:layout_below="@+id/card_description"
+            android:layout_below="@+id/card_imageView"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true" />
 
