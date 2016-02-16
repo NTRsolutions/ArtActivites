@@ -89,7 +89,7 @@
     </card>
     <card>
         <id>005</id>
-        <month>May</month>
+        <month>June</month>
         <name>Pressed Flower Cards</name>
         <description>Collect some flowers on your next nature walk.</description>
         <materials>
@@ -653,7 +653,7 @@
         </directions>
     </card>
     <card>
-        <id>035</id>
+        <id>034</id>
         <month>May</month>
         <name>Homemade Maraca</name>
         <description>Celebrate Cinco de Mayo with this festive maraca.</description>
@@ -671,5 +671,124 @@
             <step>SHAKE! SHAKE!! SHAKE!!!</step>
         </directions>
     </card>
-
+    <card>
+        <id>035</id>
+        <month>March</month>
+        <name>Designer Easter Eggs</name>
+        <description>Add some razz-ma-tazz to your Easter eggs!</description>
+        <materials>
+            <item>Hard-boiled eggs</item>
+            <item>Commercial egg dye</item>
+            <item>Rubber bands</item>
+            <item>Stickers</item>
+            <item>White crayon</item>
+        </materials>
+        <directions>
+            <step>Carefully wrap a rubber band around an egg several times to create a funky design. Keep in mind that when you dye your egg, the area covered by the rubber band will remain white.</step>
+            <step>Create a polka-dotted egg by placing small, round stickers all over the shell. Be sure that the edges of the stickers are firmly attached to the egg. Or use white crayon to design your egg. (The dye won't stick to where you make crayon marks.</step>
+            <step>With the rubber bands and stickers in place, follow the instructions provided with the dye to color your eggs.</step>
+        </directions>
+    </card>
+    <card>
+        <id>036</id>
+        <month>November</month>
+        <name>Sponge Painting</name>
+        <description>Painting with sponges produces neat textures.</description>
+        <materials>
+            <item>Sponges</item>
+            <item>Black marker</item>
+            <item>Scissors</item>
+            <item>Acrylic paint</item>
+            <item>White paper</item>
+            <item>Newspapers</item>
+        </materials>
+        <directions>
+            <step>With your marker, draw simple shapes onto your sponges.</step>
+            <step>Cut out the shapes with scissors.</step>
+            <step>Dampen the sponge and ring out any excess water.</step>
+            <step>Be sure to cover your work area with newspapers. This project can be messy!</step>
+            <step>Place a small amount of acrylic paint on your paper plate.</step>
+            <step>Hold the sides of your damp sponge and dip your shape into the paint.</step>
+            <step>Press your sponge onto the construction paper.</step>
+            <step>Create an entire scene with sponge painting. The possibilities are endless!</step>
+        </directions>
+    </card>
+    <card>
+        <id>037</id>
+        <month>November</month>
+        <name>Sweet Potato Surprise</name>
+        <description>Watch a sweet potato grow some roots.</description>
+        <materials>
+            <item>Sweet potato</item>
+            <item>Toothpicks</item>
+            <item>Glass of water</item>
+        </materials>
+        <directions>
+            <step>Stick four toothpicks evenly around the center of a sweet potato.</step>
+            <step>Rest the tooth picks on the rim of a glass of water. The bottom ⅓ of the potato should be submerged in the water.</step>
+            <step>Place the sweet potato and glass of a window sill or another sunny location.</step>
+            <step>Within a few weeks you should see roots growing from the bottom of the potato. Be sure to check the water level often, the bottom ⅓ of the potato should always be in water.</step>
+            <step>When you see sprouts growing from he top of the potato, ask an adult to help you plant the potato in some soil</step>
+            <step>Don't forget to water you plant regularly as you watch it grow.</step>
+        </directions>
+    </card>
+    <card>
+        <id>038</id>
+        <month>February</month>
+        <name>Homemade Play Dough</name>
+        <description>Making the dough is half the fun.</description>
+        <materials>
+            <item>2 cups flour</item>
+            <item>¾ cup salt</item>
+            <item>¾ cup hot water</item>
+            <item>Food coloring</item>
+        </materials>
+        <directions>
+            <step>Mix the flour and salt together in a large bowl.</step>
+            <step>Separate the dough into a few separate lumps.</step>
+            <step>Knead each lump on a lightly floured surface, mixing a few drop of food coloring in as you go.</step>
+            <step>Have fun making crazy shapes with you play dough.</step>
+            <step>Store your dough in a plastic bag or airtight container. It should last about a week.</step>
+        </directions>
+    </card>
+    <card>
+        <id>039</id>
+        <month>December</month>
+        <name>Snowman Door Hanger</name>
+        <description>Let this snowman hang out in your room.</description>
+        <materials>
+            <item>3 round objects in different sizes, such as: canned food, jars, drinking glasses.</item>
+            <item>Cardboard (preferably white)</item>
+            <item>Pencil</item>
+            <item>Scissors</item>
+            <item>String or ribbon</item>
+            <item>Glue</item>
+            <item>Buttons</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Trace each of your three round objects twice onto the cardboard. (You'll have six circles all together).</step>
+            <step>Cut out all the circles.</step>
+            <step>Place one set of circles on a table, from largest to smallest. Line them up about ½" (1¼ cm) apart from each other.</step>
+            <step>Place a bead of glue along the center of each circle, in a straight line.</step>
+            <step>Cut approximately 18" (46 cm) of string or ribbon. Place one end of the ribbon to the bottom (largest) circle. Then lay the string on the other two circles to connect the body of your snow man. You should have extra string above the top (smallest) circle.</step>
+            <step>Glue the matching cardboard circles to your snowman, sandwiching the string in place. Then, carefully glue buttons to the front of your snowman.</step>
+            <step>After the glue has completely dried. Draw eyes, a nose, and a mouth with you markers.</step>
+            <step>Finally, loop the end of the string and tie a knot. Your snowman is ready to hang out.</step>
+        </directions>
+    </card>
+    <!--
+    <card>
+        <id></id>
+        <month></month>
+        <name></name>
+        <description></description>
+        <materials>
+            <item></item>
+        </materials>
+        <directions>
+            <step></step>
+        </directions>
+    </card>
+    -->
 </cards>
