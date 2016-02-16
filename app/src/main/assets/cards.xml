@@ -937,18 +937,128 @@
             <step>Tuck notes, drawings, photos, fortune cookie fortunes, and other little paper items behind the rubber bands.</step>
         </directions>
     </card>
-    <!--
     <card>
-        <id></id>
-        <month></month>
-        <name></name>
-        <description></description>
+        <id>047</id>
+        <month>January</month>
+        <name>Quilled Card</name>
+        <description>Create unique cars with a few coiled strips of colored paper.</description>
         <materials>
-            <item></item>
+            <item>Colored paper</item>
+            <item>Ruler</item>
+            <item>Scissors</item>
+            <item>Glue</item>
+            <item>Pencil</item>
         </materials>
         <directions>
-            <step></step>
+            <step>First, measure and cut several thin strips of colored paper. The strips should be approximately ¼" (¾ cm) thick, and as long as you want.</step>
+            <step>Get your oil started by wrapping a strip of paper around your pencil a few times. Slide the paper off of the pencil and pull the coil tight. Roll the remainder of the paper strip around the coil.</step>
+            <step>With a small dab of glue, secure the end of the strip to your coil. Hold it in place until dry. You now have a round coil. Roll as many coils as necessary to create a design for your card. Create different shapes by pinching the coils in different locations.</step>
+            <step>Cut a piece of color paper for you card. Turn the coils on their sides and glue them to the front of your card in any pattern you chose. You can make flowers, shamrocks, or even animals with your quilled paper.</step>
         </directions>
     </card>
+    <card>
+        <id>048</id>
+        <month>June</month>
+        <name>Sssuper Slithering Mobile</name>
+        <description>Let this snake hang out in your room.</description>
+        <materials>
+            <item>Thin piece of cardboard</item>
+            <item>Dinner plate</item>
+            <item>Pencil</item>
+            <item>Scissors</item>
+            <item>Acrylic paints</item>
+            <item>Markers</item>
+            <item>Hole punch</item>
+            <item>String</item>
+        </materials>
+        <directions>
+            <step>Start by tracing a dinner plate onto the cardboard. Cut the circle out.</step>
+            <step>Place your pencil point at the center of your circle, then draw a wide spiral toward the outside of your cardboard. Next, cut along the spiral line from outside, moving in. You should have coil.</step>
+            <step>Lay the coil flat on your work surface to decorate. Paint your snake a bright color and add a neat design or scales. Don't' forget the eyes and a tongue. Allow the paint to dry before decorating the other side.</step>
+            <step>Finally, punch a hole in the tip of the snake's tail (center portion of the coil). Thread a string through the hole and hang your new friend in your room.</step>
+        </directions>
+    </card>
+    <card>
+        <id>049</id>
+        <month>April</month>
+        <name>Mosaic Treasure Chest</name>
+        <description>Keep all your favorite things in this special box. A "mosaic" is formed by piecing smaller elements together to make a picture or design.</description>
+        <materials>
+            <item>Shoe box</item>
+            <item>Pencil</item>
+            <item>Old magazine pages</item>
+            <item>Scissors</item>
+            <item>Glue</item>
+            <item>Water</item>
+            <item>Plastic cup</item>
+            <item>Small paint brush</item>
+        </materials>
+        <directions>
+            <step>Start by drawing a simple shape on the lid of your shoe box. A star or a heart works well.</step>
+            <step>Tear out pages from an old magazine. Choose colorful pages; these colors will make your mosaic come alive. Cut the pages into strips. Then, cut the strips into small squares.</step>
+            <step>In a plastic cup, combine equal parts of water and glue. Mix with your brush.</step>
+            <step>Brush a thin layer of the glue solution onto a small area of your lid design. Arrange your magazine squares on the glued area following the shape of you design. Add more glue and squares until the lid is covered.</step>
+            <step>Apply another light coat of the glue solution to the top of your squares. Allow the lid to dry. This is a great box to keep all your little treasures in!</step>
+        </directions>
+    </card>
+    <card>
+        <id>050</id>
+        <month>May</month>
+        <name>Box Guitar</name>
+        <description>Rock out!</description>
+        <materials>
+            <item>Tissue box</item>
+            <item>Scissors</item>
+            <item>Rubber bands</item>
+            <item>Pencil</item>
+            <item>Paper towel tube</item>
+            <item>Tape</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Carefully stretch a few rubber bands around your tissue box. They should lay over the opening.</step>
+            <step>Gently slide a pencil between the box and rubber bands above the oval opening.</step>
+            <step>Tape the cardboard tube to the side of the box.</step>
+            <step>Decorate your guitar with markers or stickers.</step>
+            <step>Strum away!</step>
+        </directions>
+    </card>
+
+    <!--
+        <card>
+            <id></id>
+            <month></month>
+            <name></name>
+            <description></description>
+            <materials>
+                <item></item>
+            </materials>
+            <directions>
+                <step></step>
+            </directions>
+        </card>
     -->
+    <!-- Missing second sheet
+            <id></id>
+            <month>March</month>
+            <name>St. Pat's Parade Wand</name>
+            <description>Wave on the parade with this fun project.</description>
+            <materials>
+                <item>Thin cardboard (a cereal box works well)</item>
+                <item>Pencil</item>
+                <item>Scissors</item>
+                <item>Green paint</item>
+                <item>Green ribbon</item>
+                <item>Stapler</item>
+                <item>Glue</item>
+                <item>Masking tape</item>
+                <item>Wooden chopstick</item>
+            </materials>
+            <directions>
+                <step>Draw three hearts of equal size on the cardboard. Cut the hearts out and glue the three points together to from a shamrock shape.</step>
+                <step>Cut several pieces of ribbon. They can all be different lengths, but don't make any longer than 18" (45 cm). Gather one end of all of the ribbons and know them together. Staple the bunch to the back of your shamrock.</step>
+                <step></step>
+            </directions>
+        </card>
+     -->
 </cards>
