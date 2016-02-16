@@ -818,6 +818,45 @@
             <step>Use bottle caps or buttons as your game pieces and challenge a friend to a game of checkers!</step>
         </directions>
     </card>
+    <card>
+        <id>042</id>
+        <month>September</month>
+        <name>Smiley-face Zipper Pull</name>
+        <description>Keep your jacket zipped all the way up to show off this custom zipper pull.</description>
+        <materials>
+            <item>2 large paper clips</item>
+            <item>Felt scraps</item>
+            <item>Scissors</item>
+            <item>Googly eyes</item>
+            <item>Glue</item>
+        </materials>
+        <directions>
+            <step>Cut 2" (5 cm) circles of felt. Glue them together with a paper clip sandwiched in between. Leave about ¼" (¾ cm) of the end of the paper clip sticking out.</step>
+            <step>Glue on googly eyes and a big happy smile made from a different color felt.</step>
+            <step>Attach the other paper clip to the loop of the paper clip that is sticking out of the felt circles. Hook your zipper pull to your jacket zipper.</step>
+            <step>Try making some zippy zipper pulls out of other shapes and characters, and give them to your friends.</step>
+        </directions>
+    </card>
+    <card>
+        <id>042</id>
+        <month>February</month>
+        <name>Valentine Bouquet</name>
+        <description>Give these easy-to-make flowers to your valentine.</description>
+        <materials>
+            <item>Tissue paper</item>
+            <item>Ruler</item>
+            <item>Pencil</item>
+            <item>Scissors</item>
+            <item>Pipe cleaners</item>
+        </materials>
+        <directions>
+            <step>Measure and cut 6" x 6" (15cm x 15cm) squares of tissue paper. You'll need five squares of paper per flower.</step>
+            <step>Stack five squares of tissue paper. You can use the same color or alternate colors.</step>
+            <step>Fold the stack like an accordion (back and forth), with fold approximately ½" (1¼ cm) wide. You will now have a 6" x ½" (15cm x 1¼ cm) folded strip.</step>
+            <step>Twist one end of a pipe cleaner around the center point of the folded strip. This will serve as the stem of your flower.</step>
+            <step>To create the petals, gently separate the tissue paper by pulling each layer up and toward the center. Repeat this process to make a many flowers as you'd like for a lovely Valentine's bouquet.</step>
+        </directions>
+    </card>
     <!--
     <card>
         <id></id>
