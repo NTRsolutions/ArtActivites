@@ -614,5 +614,62 @@
             <step>Twist your handle and make some noise.</step>
         </directions>
     </card>
-    
+    <card>
+        <id>032</id>
+        <month>September</month>
+        <name>Crayon Scratch-board</name>
+        <directions>Begin to reveal your true artistic self, from scratch.</directions>
+        <materials>
+            <item>Thick white paper or card stock</item>
+            <item>Crayons</item>
+            <item>Paper towel</item>
+            <item>Popsicle sticks and toothpicks</item>
+        </materials>
+        <directions>
+            <step>With crayons, color abstract shapes of various bright colors on the paper. Cover the entire surface of your paper with crayon.</step>
+            <step>Ball up a paper towel, and use it to buff the surface of your crayon-colored paper, removing any crayon crumbs and making it nice and smooth.</step>
+            <step>Take a black crayon and color the entire surface of the paper, right on top of the other colors. Cover the whole surface, leaving no color showing through.</step>
+            <step>Using the Popsicle sticks and toothpicks, draw an image by scratching off the black crayon and revealing the colors beneath.</step>
+        </directions>
+    </card>
+    <card>
+        <id>033</id>
+        <month>May</month>
+        <name>Floral Mother's Day Card</name>
+        <description>Your mom will love this!</description>
+        <materials>
+            <item>Construction paper</item>
+            <item>6 paper muffin cups</item>
+            <item>Paint</item>
+            <item>Glue</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Fold your constriction paper in half to create a card.</step>
+            <step>Paint your paper muffin cups in bright floral colors. Allow the paint to dry.</step>
+            <step>Flatten three of your paper muffin cups. Glue these three flattened circles to the front of your card.</step>
+            <step>Glue an upright muffin cup to the center of each circle.</step>
+            <step>With your markers, draw stem for each of the flowers. Write a nice note to your mom on the inside of your card.</step>
+        </directions>
+    </card>
+    <card>
+        <id>035</id>
+        <month>May</month>
+        <name>Homemade Maraca</name>
+        <description>Celebrate Cinco de Mayo with this festive maraca.</description>
+        <materials>
+            <item>2 paper cups</item>
+            <item>Handful of uncooked beans</item>
+            <item>Masking tape</item>
+            <item>Paints or markers</item>
+        </materials>
+        <directions>
+            <step>Place the uncooked beans in one of the paper cups.</step>
+            <step>Turn the other cup upside down on top of the first cup, and align the rims. Tape them together with a few layers of masking tape around the edges.</step>
+            <step>Use paints or markers to decorate your maraca</step>
+            <step>Wait for the paint to dry.</step>
+            <step>SHAKE! SHAKE!! SHAKE!!!</step>
+        </directions>
+    </card>
+
 </cards>
