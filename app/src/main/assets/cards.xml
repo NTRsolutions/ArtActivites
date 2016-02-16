@@ -857,6 +857,86 @@
             <step>To create the petals, gently separate the tissue paper by pulling each layer up and toward the center. Repeat this process to make a many flowers as you'd like for a lovely Valentine's bouquet.</step>
         </directions>
     </card>
+    <card>
+        <id>043</id>
+        <month>February</month>
+        <name>Pop-up Valentine</name>
+        <description>Give this card to someone special.</description>
+        <materials>
+            <item>Construction paper</item>
+            <item>Clear tape</item>
+            <item>Glue</item>
+            <item>Scissors</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Cut two 1" x 11" (3cm x 28xm) strips of construction paper. Place one strip over the other and from an "L" shape and tape together.</step>
+            <step>Holding the strips at the corner, fold the bottom strip over the top. Repeat with the other strip. Alternate folding until you come to the end of the strips. Place a small piece of tape to secure the ends. You should have what looks like a paper spring.</step>
+            <step>Cut a heart shape (about the size of your hand) out of the construction paper.</step>
+            <step>Fold an 8½" x 11" piece of paper in half to make a card. Open the card and glue one of the paper spring to the middle of the right half of the card. Glue your heart to the other end of the spring.</step>
+            <step>Allow the glue to dry. Then, write a sweet Valentine message inside. Surprise a special someone with this pop-up heart card.</step>
+        </directions>
+    </card>
+    <card>
+        <id>044</id>
+        <month>June</month>
+        <name>Ball-in-Cup Game</name>
+        <description>Challenge yourself with this simple game.</description>
+        <materials>
+            <item>Paper cup</item>
+            <item>Markers or paints</item>
+            <item>Pencil</item>
+            <item>Scissors</item>
+            <item>String or twine</item>
+            <item>Tin foil</item>
+        </materials>
+        <directions>
+            <step>Decorate the outside of your cup with a neat design.</step>
+            <step>With the pencil, poke a very small hole in the center of the bottom of your paper cup.</step>
+            <step>Cut an 18" (45cm) piece of string or twine. Tie several knots at one end of the string to create one large knot. Thread the other end of the string through the hole from the inside of the cup. Gently pull the string through the hole until the large knot catches.</step>
+            <step>next, tie several knots at the other end of the string. Take a small piece of foil and ball it up tightly around the knot you just created. Be sure that the tin foil ball will fit into the cup.</step>
+            <step>Holding the cup, try your best to flip the ball into the cup. Good luck!</step>
+        </directions>
+    </card>
+    <card>
+        <id>045</id>
+        <month>April</month>
+        <name>Paper Bag Puppets</name>
+        <description>Put on a puppet show with these fun-to-make friends.</description>
+        <materials>
+            <item>Paper lunch bag</item>
+            <item>Construction paper</item>
+            <item>Glue</item>
+            <item>Scissors</item>
+            <item>Markers or crayons</item>
+            <item>Yarn, buttons, googly eyes, etc.</item>
+        </materials>
+        <directions>
+            <step>Lay your paper bag flat on a table. Be sure that the flap (bottom of the bag) is facing up. This flap will become your puppet's face.</step>
+            <step>Use your imagination to make any character you'd like: a frog, a dog, a bird, a person. The possibilities are endless!</step>
+            <step>Add facial features with markers or crayons. Glue construction paper cutouts to your bag for ears or arms. Use yarn for hair. Add whatever embellishments you can find to bring your puppet to life.</step>
+            <step>After the glue has dried completely, pace your hand in the opening of the bag and watch your puppet come alive!</step>
+        </directions>
+    </card>
+    <card>
+        <id>046</id>
+        <month>August</month>
+        <name>Snappy Note Holder</name>
+        <description>Keep little notes and keepsakes together in a snap!</description>
+        <materials>
+            <item>Corrugated cardboard - approximately 10" x 12" (25cm x 30xm) </item>
+            <item>Construction paper</item>
+            <item>Rubber bands</item>
+            <item>Scissors</item>
+            <item>Glue</item>
+        </materials>
+        <directions>
+            <step>Decorate one side of your cardboard by gluing construction paper all over it. Start by gluing one big piece for the background, then glue smaller pieces on top to make a cool design.</step>
+            <step>Make about a dozen small snips at various places around the edges of your cardboard.</step>
+            <step>Stretch rubber bands around your cardboard, placing them in the snips at the edges to keep them from sliding around. Put them on in angles from one snip to another, creating a crisscross of rubber bands from top to bottom and side to side, all over you decorated cardboard.</step>
+            <step>Tuck notes, drawings, photos, fortune cookie fortunes, and other little paper items behind the rubber bands.</step>
+        </directions>
+    </card>
     <!--
     <card>
         <id></id>
