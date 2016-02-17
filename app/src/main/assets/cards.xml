@@ -820,25 +820,6 @@
     </card>
     <card>
         <id>042</id>
-        <month>September</month>
-        <name>Smiley-face Zipper Pull</name>
-        <description>Keep your jacket zipped all the way up to show off this custom zipper pull.</description>
-        <materials>
-            <item>2 large paper clips</item>
-            <item>Felt scraps</item>
-            <item>Scissors</item>
-            <item>Googly eyes</item>
-            <item>Glue</item>
-        </materials>
-        <directions>
-            <step>Cut 2" (5 cm) circles of felt. Glue them together with a paper clip sandwiched in between. Leave about ¼" (¾ cm) of the end of the paper clip sticking out.</step>
-            <step>Glue on googly eyes and a big happy smile made from a different color felt.</step>
-            <step>Attach the other paper clip to the loop of the paper clip that is sticking out of the felt circles. Hook your zipper pull to your jacket zipper.</step>
-            <step>Try making some zippy zipper pulls out of other shapes and characters, and give them to your friends.</step>
-        </directions>
-    </card>
-    <card>
-        <id>042</id>
         <month>February</month>
         <name>Valentine Bouquet</name>
         <description>Give these easy-to-make flowers to your valentine.</description>
@@ -1055,12 +1036,11 @@
         </materials>
         <directions>
             <step>Choose a beautiful button to be the focal point of your fabulous new ring.</step>
-            <step>Thread a pipe cleaner through the loop in the button shank and twiest to tighten.</step>
-            <step>Bend the pipe cleaner around the edge of the button to make a nice "setting" and then loosely wrap the rest of the pipe cleaner around your finger a coupl eof times, making a stable ring to bear your big gutton bauble.</step>
+            <step>Thread a pipe cleaner through the loop in the button shank and twist to tighten.</step>
+            <step>Bend the pipe cleaner around the edge of the button to make a nice "setting" and then loosely wrap the rest of the pipe cleaner around your finger a couple of times, making a stable ring to bear your big button bauble.</step>
             <step>Snip off the unused portion of the pipe cleaner and save it for another project. Wear your ring with pride, or give it to somebody who deserves it.</step>
         </directions>
     </card>
-
     <card>
         <id>053</id>
         <month>March</month>
@@ -1110,7 +1090,7 @@
         <name>Cardboard County</name>
         <description>Build a whole neighborhood out of empty boxes.</description>
         <materials>
-            <item>Empty shoeboxes, gift boxes, cereal boxes, cardboard containers, oatmeal containers, etc.</item>
+            <item>Empty shoe boxes, gift boxes, cereal boxes, cardboard containers, oatmeal containers, etc.</item>
             <item>Construction paper</item>
             <item>Scissors</item>
             <item>Glue stick</item>
@@ -1118,38 +1098,864 @@
             <item>Toy cars and people</item>
         </materials>
         <directions>
-            <step>Look at all your boxes together and envision them as buildiings in your neighborhood. Small ones might be houses; bigger ones might be apartment buildings or grocery stores ... it's up to you to decide.</step>
-            <step>Decorate your houses and buildings: Cover printing with big sheets of construction paper, and then cut out windows, shutters, and doors in constrasting colors. Stick everything onto the boxes with a glue stick. Use markers to add details, like a cat in the window, address numbers, flower boxes, prches, sign, etc.</step>
-            <step>Arrange your buildings andy way you like. you can line them up to make a whole block in Cardboard Country.</step>
+            <step>Look at all your boxes together and envision them as buildings in your neighborhood. Small ones might be houses; bigger ones might be apartment buildings or grocery stores ... it's up to you to decide.</step>
+            <step>Decorate your houses and buildings: Cover printing with big sheets of construction paper, and then cut out windows, shutters, and doors in contrasting colors. Stick everything onto the boxes with a glue stick. Use markers to add details, like a cat in the window, address numbers, flower boxes, porches, sign, etc.</step>
+            <step>Arrange your buildings any way you like. you can line them up to make a whole block in Cardboard Country.</step>
             <step>Drive toy cars and play with toy people around town and make believe you live there. What do you think happens when it rains?</step>
         </directions>
     </card>
     <card>
         <id>056</id>
-        <month></month>
+        <month>June</month>
+        <name>Portrait Silhouette</name>
+        <description>Give your dad an old-fashion picture of yourself.</description>
+        <materials>
+            <item>Desk lamp</item>
+            <item>Large white paper or poster board</item>
+            <item>Masking tape</item>
+            <item>Pencil</item>
+            <item>Markers an paints</item>
+        </materials>
+        <directions>
+            <step>Ask an adult to help you with this project.</step>
+            <step>Position the desk lamp approximately 6 feet (2 m) from a blank wall.</step>
+            <step>Tape the large piece of paper to the wall.</step>
+            <step>Stand between the light and the wall, facing sideways. Don't move! Ask a friend or an adult to carefully outline your shadow with a pencil.</step>
+            <step>When your silhouette is complete, take the paper down and fill the outline with paint or markers.</step>
+        </directions>
+    </card>
+    <card>
+        <id>057</id>
+        <month>May</month>
+        <name>Patchwork Pots</name>
+        <description>Give your plants a little sunshine with these cheerful pots.</description>
+        <materials>
+            <item>Small clay flowerpots or plastic containers from margarine, the deli, etc.</item>
+            <item>Brush an area of glue on the surface of a flowerpot, and lay a fabric scrap on it. Do the same with other scraps, overlapping them at the edges, and leaving no surface of the flowerpot exposed. You can even fold the fabric over the top and bottom edges to give it a nice, finished look.</item>
+            <item>Once the entire pot it covered, brush a layer of glue over all of the fabric. This will help the pieces adhere more permanently, and provide a shiny finish. Let the pot dry overnight.</item>
+            <item>Plant a small houseplant, or put a few flower seeds in some soil and see what comes up!</item>
+        </materials>
+    </card>
+    <card>
+        <id>058</id>
+        <month>March</month>
+        <name>"Eggcellent" Storage Container</name>
+        <description>Recycle an egg carton to store your favorite things.</description>
+        <materials>
+            <item>Egg carton</item>
+            <item>Paints</item>
+            <item>Construction paper</item>
+            <item>Glue</item>
+            <item>Markers</item>
+            <item>Your favorite small items</item>
+        </materials>
+        <directions>
+            <step>Use your imagination to decorate an empty egg carton with paints, construction paper, and markers.</step>
+            <step>After the paint and glue have dried, fill the container with some of your favorite things: coins, beads, fishing hooks, or any small items you want to keep organized.</step>
+        </directions>
+    </card>
+    <card>
+        <id>059</id>
+        <month>May</month>
+        <name>Picture Frame Magnets</name>
+        <description>Make these special magnets for your mom.</description>
+        <materials>
+            <item>Jar lid (washed and dried)</item>
+            <item>Photograph of yourself</item>
+            <item>Pencil</item>
+            <item>Scissors</item>
+            <item>Glue</item>
+            <item>Magnetic strip</item>
+            <item>Ribbon</item>
+        </materials>
+        <directions>
+            <step>Place your jar lid on top of the photo you will cut out. Trace your lid shape onto your photograph.</step>
+            <step>Cut your photograph just inside the line. The photo should fit inside the lid. If it's to big, trim it down to the correct size.</step>
+            <step>Glue the back of your photograph to the inside of the lid.</step>
+            <step>Attach a sticky magnetic strip to the other side of the lid.</step>
+            <step>Finally, wrap a ribbon around the side of the lid and tie into a nice bow.</step>
+        </directions>
+    </card>
+    <card>
+        <id>060</id>
+        <month>July</month>
+        <name>Time Capsule</name>
+        <description>Fill your capsule with current-day treasures to be rediscovered in the future.</description>
+        <materials>
+            <item>2 two-liter plastic bottles (washed and dried)</item>
+            <item>Scissors</item>
+            <item>Mementos</item>
+        </materials>
+        <directions>
+            <step>Ask an adult to cut the top section of both two-liter bottles off.</step>
+            <step>Fill one of the bottles with all kinds of goodies: artwork, family photos, a list of your favorite things, a clipping from today's paper, a small toy, etc. Be sure to include today's date somewhere in the capsule.</step>
+            <step>Have an adult help you slide one bottle opening into the other to form the capsule.</step>
+            <step>Finally, decide when you will open your time capsule. Five years? Maybe Ten? Label the capsule: "To be opened in 2020" or whatever date you chose. Hide it away in a safe place until that time.</step>
+        </directions>
+    </card>
+    <card>
+        <id>061</id>
+        <month>May</month>
+        <name>Oatmeal Box Drum</name>
+        <materials>
+            <item>Empty oatmeal box with lid</item>
+            <item>Construction paper</item>
+            <item>Markers or crayons</item>
+            <item>Clear tape</item>
+            <item>Scissors</item>
+            <item>Rubber bands</item>
+        </materials>
+        <directions>
+            <step>Cut out a piece of construction paper large enough to fit around the empty cylindrical box. Decorate the paper with some funky patterns.</step>
+            <step>Wrap the decorative paper around the box and tape it in place.</step>
+            <step>Cut two large circles from the construction paper. These circles should be slightly larger that the lid of the box.</step>
+            <step>Place one circle over the top of the box and secure in place with a rubber band. Repeat with the other circle on the bottom of the box. Now, beat your drum.</step>
+        </directions>
+    </card>
+    <card>
+        <id>062</id>
+        <month>June</month>
+        <name>Gum-ball Machine Musical Shakers</name>
+        <description>Be a part of the rhythm section when you make these musical shakers.</description>
+        <materials>
+            <item>Plastic capsules from gum-ball machines</item>
+            <item>uncooked rice</item>
+            <item>Marbles</item>
+            <item>Pennies</item>
+            <item>sand</item>
+            <item>Masking tape</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Take the prize out of a gum-ball machine capsule and fill the larger part about ¼ full with rice.</step>
+            <step>Snap the capsule closed and run a piece of masking tape around the seam where the two plastic halves meet. The tape is mostly for decoration, so color some nice designs on it with markers.</step>
+            <step>Make a separate shaker for each of the other items: marbles, pennies, and sand.</step>
+            <step>Listen to the difference in how each shaker sounds. Put on your favorite music .. shake your shakers and dance!</step>
+        </directions>
+    </card>
+    <card>
+        <id>063</id>
+        <month>January</month>
+        <name>Balloon Rocket Racers</name>
+        <description>Have a drag race inside the house when you make these rockets.</description>
+        <materials>
+            <item>Balloons</item>
+            <item>Soda straw</item>
+            <item>Yarn</item>
+            <item>Tape</item>
+            <item>Clip clothespins</item>
+            <item>Markers</item>
+            <item>Scissors</item>
+        </materials>
+        <directions>
+            <step>Snip a soda straw in half.</step>
+            <step>Cut a 20 foot (6 m) piece of yarn. Thread the two half-straws onto the yarn and tie the ends into a knot. Loop the yarn around the backs of two chairs. Be sure that your straws are separated by the chairs. Pull the chairs away from each other until the yarn is taut.</step>
+            <step>Blow up two balloons and clip the ends closed with clothespins. With markers, draw racing stripes and flames on your balloon rocket racers.</step>
+            <step>Tape a balloon to each of the straws on your yarn (both of the clothespins should be facing the closest chair). Align the balloons next to each other at one end of the looped yarn.</step>
+            <step>Unclip the clothespins at the exact same time, and watch your balloons race along the yarn all the way across to the other chair. Blow your balloon rockets back up and race again and again!</step>
+        </directions>
+    </card>
+    <card>
+        <id>064</id>
+        <month>July</month>
+        <name>Bubble Fun</name>
+        <description>Blow millions of bubbles with this wand.</description>
+        <materials>
+            <item>Straws</item>
+            <item>Tape</item>
+            <item>Bowl</item>
+            <item>Soap bubble solution</item>
+        </materials>
+        <directions>
+            <step>Gather several straws together. Align the ends so that they're even. Wrap tape around the bundle a few times to secure the straws together.</step>
+            <step>Pour the bubble solution into your bowl. Dip one end of your straw bundle into the solution, then blow from the other end.</step>
+        </directions>
+    </card>
+    <card>
+        <id>065</id>
+        <month>April</month>
+        <name>Colorful Caterpillar</name>
+        <description>Create this crawling caterpillar from an egg carton.</description>
+        <materials>
+            <item>Egg carton</item>
+            <item>Scissors</item>
+            <item>Acrylic craft paint</item>
+            <item>Pipe cleaners</item>
+            <item>Googly eyes</item>
+            <item>Glue</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Cut the top of the egg carton off. Then, cut the egg carton bottom in half lengthwise. You will have two strips of six cups.</step>
+            <step>Paint one of the strips with funky colors.</step>
+            <step>Ask an adult to help you poke two small holes at the top of one end of the strip. Then, carefully insert a pipe cleaner through each hole. These are the caterpillar's antennae.</step>
+            <step>Finally, glue the googly eyes below the antennae. Add details with markers if you'd like. Let your caterpillar hang out on a bookshelf or window sill to dry.</step>
+        </directions>
+    </card>
+    <card>
+        <id>066</id>
+        <month>June</month>
+        <name>Silly Sunglasses</name>
+        <description>Go Hollywood glam with these funky shades.</description>
+        <materials>
+            <item>Sunglasses you can trace</item>
+            <item>Pencil</item>
+            <item>Cardboard</item>
+            <item>Scissors</item>
+            <item>Colored plastic wrap</item>
+            <item>Clear tape</item>
+            <item>Markers, glue, glitter, sequins, sparkly things</item>
+        </materials>
+        <directions>
+            <step>On the cardboard, trace a pair of sunglasses that fit you well. First, trace the front, then lay down the sides, one at a time, and trace them onto the sides of the front section. Once you have the flat outline of your glasses, add some crazy shapes to make them sillier and fancier than the glasses you traced.</step>
+            <step>With scissors, cut out your final design. Cut out two pieces of the colored plastic wrap, each just a little larger than the lenses of your cardboard glasses, and tape the plastic to the back side of the frames.</step>
+            <step>Turn your glasses over and decorate them like crazy! Color them with bright colors and patterns, then glue on sparkles and other groovy things.</step>
+            <step>Crease your cardboard glasses at the temples so they fold like real glasses do, and put them on.</step>
+        </directions>
+    </card>
+    <card>
+        <id>067</id>
+        <month>November</month>
+        <name>Eraser Stampers</name>
+        <description>If you have an eraser and an imagination, you don't need fancy rubber stamps!</description>
+        <materials>
+            <item>Soft rubber erasers</item>
+            <item>Markers</item>
+            <item>Paper</item>
+        </materials>
+        <directions>
+            <step>With a nice juicy marker, draw a design on you eraser, then turn it over and stamp it onto your paper.</step>
+            <step>You can stamp a couple times before the ink runs out, but it's easy to go back over your design and re-marker it to stamp it again.</step>
+            <step>Use all the sides of your eraser to make different designs and use different colors.</step>
+            <step>Create borders, embellishments, whimsical decorations and secret stamp signatures.</step>
+        </directions>
+    </card>
+    <card>
+        <id>068</id>
+        <month>June</month>
+        <name>Paper Lanterns</name>
+        <description>Jazz up your backyard with these cool lanterns.</description>
+        <materials>
+            <item>Construction paper (8½" x 11")</item>
+            <item>Ruler</item>
+            <item>Glue</item>
+            <item>Scissors</item>
+            <item>Sequins</item>
+            <item>String</item>
+        </materials>
+        <directions>
+            <step>With your ruler, draw a line 1" (2½ cm) from one of the long edges of your paper. Then fold your paper in half so that the long sides match up. Your line should be on the outside of your folded paper.</step>
+            <step>Draw ten straight lines from the folded edge of your paper, to the line you drew earlier. These lines should be 1" (2½ cm) apart.</step>
+            <step>Starting from the fold, cut along the ten lines. Stop at the line 1" (2½ cm) from the edge. Unfold your paper. Decorate the paper with glue and sequins.</step>
+            <step>Carefully glue the two short ends of the paper together. Cut a 1" x 8" (2½ cm x 22 cm) strip from another piece of paper. Glue the ends of the strip to the inside edges of one of the lantern ends.</step>
+            <step>Make as many lanterns as you'd like in different colors. Thread a string through the lantern handles and hang the string outside or in your bedroom.</step>
+        </directions>
+    </card>
+    <card>
+        <id>069</id>
+        <month>April</month>
+        <name>Secret Spy Binoculars</name>
+        <description>Go undercover and spy on your neighborhood.</description>
+        <materials>
+            <item>Toilet tissue tubes</item>
+            <item>Glue</item>
+            <item>Foam brush</item>
+            <item>Paper clips</item>
+            <item>Rubber band</item>
+            <item>Construction paper</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Cut two pieces of green construction paper the length of your toilet tissue tubes, and wide enough to wrap fully around each one with about ½" (2 cm) overlap. On each sheet, mark the two edges that will go at the either end of the tubes by making a black stripe along them, about ¼" (1 cm) wide.</step>
+            <step>Using brown and black markers, color blob shapes on top of the green paper, leaving some green showing through. This will make a camouflage pattern to keep you from being seen when you're spying.</step>
+            <step>With the foam brush, coat the back of your camouflage paper with glue and wrap each sheet onto a tube. Note that the black stripes from the eyepieces and lenses at the ends of the tubes.</step>
+            <step>Run a bead of glue down one of the tubes at the paper seam, and attach the second tube, with the seam side in. Paper clip the tubes together at both ends, and secure with a rubber band while the glue dries.</step>
+            <step>Remove the paper clips and rubber band, and go on a spy mission!</step>
+        </directions>
+    </card>
+    <card>
+        <id>070</id>
+        <month>October</month>
+        <name>Paper Whistles</name>
+        <description>Make silly noises with this simple whistle.</description>
+        <materials>
+            <item>Sheet of paper</item>
+            <item>Scissors</item>
+            <item>Ruler</item>
+            <item>Pencil</item>
+        </materials>
+        <directions>
+            <step>Measure your paper and cut out a rectangle that's about 2" x 6".</step>
+            <step>Fold it in half to a 2" x 3" (5cm x 7½ cm) rectangle, and snip a small ¼ (¾ cm) triangle out of the center of the folded edge.</step>
+            <step>Along the opposite edge, measure ½" (1¼ cm) in from each corner and make a pencil mark in each place. Using the ruler, draw a straight line from the outer corner of the folded edge to your pencil mark. Do this on both sides.</step>
+            <step>Cut on your pencil lines, through both layers of paper, and discard the part you cut off.</step>
+            <step>Fold each of the edges opposite the folded edge up about an inch (2½ cm) on each side to form the finger flaps.</step>
+            <step>Hold those flaps loosely to your lips, with the rest of the paper sticking straight out from your mouth. Blow!</step>
+        </directions>
+    </card>
+    <card>
+        <id>071</id>
+        <month>September</month>
+        <name>Penny Pinball</name>
+        <description>Race your friends for the price of a penny with this fun game.</description>
+        <materials>
+            <item>Shoe box lid</item>
+            <item>Crayons</item>
+            <item>Paper towel</item>
+            <item>Scissors</item>
+            <item>Pencil</item>
+            <item>Bobby pins</item>
+            <item>Penny</item>
+        </materials>
+        <directions>
+            <step>With a pencil, draw a few 1" (2½ cm) circles on the inside of your box lid. Poke the center of each circle with scissors to get a hole started, then cut out the circles.</step>
+            <step>With crayons, color the inside of the lid with cool pinball designs, covering the entire surface with color. When you're finished coloring, use the paper towel to buff the surface of your crayon design to create a nice smooth, slippery surface on which your penny can glide.</step>
+            <step>Take some bobby pins and clip them to your box lid through the holes you made. You can also poke a few holes in the sides of your box lid and insert bobby pins from the sides. Make sure the wavy sides of the bobby pins are on your colored surface and the straight sides are below. Turn the bobby pins in different directions to make an obstacle course for your penny.</step>
+            <step>Place your penny at the top of your pinball machine and make it glide around between the bobby pins, avoiding the holes. Try to get it all the way to the bottom and back to the top as fast as you can. Have your friend time you, then take turns trying to beat your best times.</step>
+        </directions>
+    </card>
+    <card>
+        <id>072</id>
+        <month>July</month>
+        <name>Beaded Jump Rope</name>
+        <description>Hop till you drop with this too-cool-for-school jump rope.</description>
+        <materials>
+            <item>Soda straws in lots of colors</item>
+            <item>Scissors</item>
+            <item>Masking tape or duct tape</item>
+            <item>Cord or heavy string</item>
+        </materials>
+        <directions>
+            <step>Cut seven straws in half. Take seven of the half-straws and hold them in a bundle, so they look like a flower from the end. Bind them together with tape to form a jump rope handle. Repeat with the other half-straws to make the other handle.</step>
+            <step>Cut an 8 foot (2½ m) section of cord. Thread your cord through the center of one of your handles and tie a big knot on the end, big enough to keep the cord from slipping back through the handle. Snip more straws into 1" (2½ cm) sections.</step>
+            <step>Use your snipped straw pieces like beads and string them onto the cord in alternating colors. Leave a few inches at the end and attach the other handle the same way you did the first one, with a big knot.</step>
+            <step>Jump!</step>
+        </directions>
+    </card>
+    <card>
+        <id>073</id>
+        <month>June</month>
+        <name>Cardboard Sun Hat</name>
+        <description>Keep cool with your own homemade sun hat.</description>
+        <materials>
+            <item>25" (64 cm) square of cardboard</item>
+            <item>Larger binder clip</item>
+            <item>Scissors</item>
+            <item>Glue</item>
+            <item>Masking tape</item>
+            <item>Acrylic craft paint</item>
+        </materials>
+        <directions>
+            <step>Cut 2" (5 cm) strip of cardboard from one edge of you square. Set aside. Ask an adult to help you cut an 18" (46 cm) circle out of the remaining cardboard. Then have them cut a straight line from the edge of the circle to the center point.</step>
+            <step>Form the cone-shaped hat by overlapping one edge over the other. Apply glue to the overlapping area, secure with a binder clip and set aside to dry.</step>
+            <step>Next, wrap the 2" (5 cm) strip around your head to determine the correct size. Secure ends with masking tape.</step>
+            <step>After the glue on your hat has dried, attach the headband to the interior of the cone with masking tape.</step>
+            <step>Last, but not least: decorate your hat with paint.</step>
+        </directions>
+    </card>
+    <card>
+        <id>074</id>
+        <month>November</month>
+        <name>Leaf-print Place Cards</name>
+        <description>Make each Thanksgiving guest feel special with these cards.</description>
+        <materials>
+            <item>Brown paper bags or construction paper</item>
+            <item>Autumn leaves (small)</item>
+            <item>Ruler</item>
+            <item>Pencil</item>
+            <item>Scissors</item>
+            <item>Acrylic paint (in fall colors)</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Measure and cut 4" x 6" (10cm x 15cm) piece of the brown paper bag or construction paper. Fold it in half, by bringing the short edges together.</step>
+            <step>Next, brush a thin layer of paint onto one side of a leaf. Press the painted leaf evenly to the front of your place card. Then, gently peel the leaf off. Allow the paint to dry completely.</step>
+            <step>When the paint is dry, write a name on your place card and set it at the proper seat. Make a place card for each guest at the table. Your friends and family will love these special decorations.</step>
+        </directions>
+    </card>
+    <card>
+        <id>075</id>
+        <month>October</month>
+        <name>Seated Scarecrow</name>
+        <description>Have fun making this friendly fellow.</description>
+        <materials>
+            <item>Old clothing (pants, shirt, gloves, socks, hat)</item>
+            <item>Old pillow case</item>
+            <item>Newspaper, leaves, or rags</item>
+            <item>Rubber bands</item>
+            <item>Black marker</item>
+        </materials>
+        <directions>
+            <step>First, ask your parents if it's OK to use the old clothes and pillow case for your scarecrow.</step>
+            <step>Wrap a rubber band around each of the ankles of the pants to close the openings. Then stuff each leg with filling; balled-u[ newspaper, leaves or rags.</step>
+            <step>Next, wrap a rubber band around each cuff of your shirt. Tuck the shirt into the pants and stuff it from the neck opening.</step>
+            <step>Slide socks onto your scarecrow and under the rubber band at each ankle. Do the same with the gloves at the wrist area.</step>
+            <step>For the head, stuff an old pillow case with filler. Add facial features with your marker and place a hat on the head. Seat your scarecrow somewhere everyone can see him.</step>
+        </directions>
+    </card>
+    <card>
+        <id>076</id>
+        <month>November</month>
+        <name>Thanksgiving Napkin Rings</name>
+        <description>Contribute to the holiday table with these festive napkin rings.</description>
+        <materials>
+            <item>Paper towel roll</item>
+            <item>Scissors</item>
+            <item>Glue</item>
+            <item>Construction paper (fall colors)</item>
+        </materials>
+        <directions>
+            <step>Flatten the cardboard tube to make it easier to cut. Then, cut the cardboard into four equal sections, approximately 2¼" (6 cm) each. Open each piece into a tubular shape again.</step>
+            <step>Next, wrap the construction paper around one of your rolls to measure how much you'll need to cover the roll. Trim the paper down to the proper size. Glue the paper to your roll.</step>
+            <step>Cut the remaining colors of construction paper into various small shapes (circles, strips, triangles). Glue the shapes onto your napkin ring to make a cool design. Repeat this process until you have one napkin ring for each person at your Thanksgiving feast.</step>
+        </directions>
+    </card>
+    <card>
+        <id>077</id>
+        <month>November</month>
+        <name>Paper Turkey</name>
+        <description>Use your hand prints and footprints to make this turkey.</description>
+        <materials>
+            <item>Construction paper (brown, red, orange, yellow)</item>
+            <item>Pencil</item>
+            <item>Scissors</item>
+            <item>Glue</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Trace two footprints onto the brown paper. Then, trace your hand print several times onto the red, orange, and yellow paper. The more hands, the better. Be sure to trace at least six hands.</step>
+            <step>Cut out the traced shapes. Glue the two footprints together to form the body of your turkey.</step>
+            <step>Glue the hand prints to the back of the turkey body in a fan shape. Be sure to alternate the colors. Cut two legs with the orange paper, and glue them to the back of the body.</step>
+            <step>Finally, add facial features with your markers. Gobble, gobble!</step>
+        </directions>
+    </card>
+    <card>
+        <id>078</id>
+        <month>September</month>
+        <name>Autumn Ornament</name>
+        <description>Celebrate the season with this cool craft.</description>
+        <materials>
+            <item>2 Popsicle sticks</item>
+            <item>Glue</item>
+            <item>Yarn (in various autumn colors)</item>
+            <item>Clear tape</item>
+        </materials>
+        <directions>
+            <step>Glue the center points of your Popsicle sticks together to form a "+". Allow the glue to dry.</step>
+            <step>Tape the end of your yarn to the back of the intersected sticks. Then, wrap the yarn around one of the spokes near the crossed section. Move in a clockwise direction, and wrap the yarn around the next spoke. Continue working your yarn around each spoke, moving from spoke to spoke in the clockwise direction.</step>
+            <step>To change colors, simply knot the end of the yarn you're working with to a new piece of yarn. Continue wrapping where you left off.</step>
+            <step>When you run out of room on the spokes, wrap the yarn several times around the same spoke, and tie it off in a knot. Hang your ornament for everyone to see.</step>
+        </directions>
+    </card>
+    <card>
+        <id>079</id>
+        <month>January</month>
+        <name>Map Puzzle</name>
+        <description>Use a map or any other picture to make your own puzzle.</description>
+        <materials>
+            <item>Map</item>
+            <item>Poster board</item>
+            <item>Glue</item>
+            <item>Scissors</item>
+        </materials>
+        <directions>
+            <step>First, glue your map to the poster board. Allow the glue to dry completely.</step>
+            <step>Next, cut along the borders. If you're not using a map, you can simply cut out your own shapes to create puzzle pieces.</step>
+            <step>Mix up all of the puzzle pieces, then try to put them back together again.</step>
+        </directions>
+    </card>
+    <card>
+        <id>080</id>
+        <month>November</month>
+        <name>Apple-print Apron</name>
+        <description>Decorate your very own apron, then help out in the kitchen this holiday season.</description>
+        <materials>
+            <item>Plain apron</item>
+            <item>Apples</item>
+            <item>Paper towels</item>
+            <item>Fabric paint</item>
+        </materials>
+        <directions>
+            <step>Ask an adult to cut an apple in half for you. Place your apple halves (cut-side down) on your paper towels to drain the excess moisture.</step>
+            <step>Lay your apron flat on a newspaper-covered work surface.</step>
+            <step>Brush a thin layer of paint onto the cut side of the apple. Then press the painted surface onto the front of your apron. Create a cool pattern using different colors. Allow the paint to dry before putting your apron to good use.</step>
+        </directions>
+    </card>
+    <card>
+        <id>081</id>
+        <month>August</month>
+        <name>Soda Straw Beads</name>
+        <description>Who knew that soda straws could look so cool?</description>
+        <materials>
+            <item>Soda straws in lots of colors</item>
+            <item>Yarn or dental floss</item>
+            <item>Scissors</item>
+        </materials>
+        <directions>
+            <step>Snip soda straws into ½" (1¼ cm) lengths.</step>
+            <step>Measure a length of yarn for your necklace. Make sure it will fit over your head after you've tied a knot in it.</step>
+            <step>Gently tie one "bead" onto the end of your yarn to form a stopper. Then string soda straw beads onto your yarn. Alternate colors to make interesting patterns.</step>
+            <step>Leave a couple inches of empty yarn at the end. Untie the first bead you tied on, and take the two loose ends of the yarn and tie them together in a double knot.</step>
+            <step>To make a bracelet, do the same thing, but make it the right size for your wrist.</step>
+        </directions>
+    </card>
+    <card>
+        <id>082</id>
+        <month>October</month>
+        <name>Haunting Hands</name>
+        <description>Your friends will love these creepy treats.</description>
+        <materials>
+            <item>Clear plastic gloves</item>
+            <item>Candy corn</item>
+            <item>Popcorn</item>
+            <item>Ribbon</item>
+        </materials>
+        <directions>
+            <step>Place one candy corn at the tip of each finger, inside a clean plastic glove. These will serve as the finger nails.</step>
+            <step>Fill the rest of the glove with popcorn.</step>
+            <step>Tie the ribbon in a bow around the wrist to seal the glove.</step>
+        </directions>
+    </card>
+    <card>
+        <id>083</id>
+        <month>August</month>
+        <name>Pine cone Bird Feeder</name>
+        <description>Watch the birds flock to this special treat.</description>
+        <materials>
+            <item>Pine cone</item>
+            <item>Yarn or twine</item>
+            <item>Scissors</item>
+            <item>Plastic knife</item>
+            <item>Paper plate</item>
+            <item>Smooth peanut butter</item>
+            <item>Birdseed</item>
+        </materials>
+        <directions>
+            <step>Cut a long piece of yarn or twine. Knot the yarn around the top portion of your pine cone. Then, tie the ends together to form a loop to hang your bird feeder.</step>
+            <step>Hold your pine cone over the paper plate and spread the peanut butter all over the pine cone. Be sure to get the peanut butter in all of the cracks and crevices.</step>
+            <step>Place some birdseed on the paper plate. Roll your peanut butter-covered pine cone in the birdseed.</step>
+            <step>Hang your bird feeder outside and enjoy watching the birds dine.</step>
+        </directions>
+    </card>
+    <card>
+        <id>084</id>
+        <month>January</month>
+        <name>Sock Puppets</name>
+        <description>Put some happiness and life back into sad worn-out socks.</description>
+        <materials>
+            <item>Old, worn-out socks</item>
+            <item>Yarn</item>
+            <item>Buttons, sequins, googly eyes, etc.</item>
+            <item>Felt</item>
+            <item>Glue</item>
+            <item>Scissors</item>
+        </materials>
+        <directions>
+            <step>Put an old sock on your hand and decide what kind of puppet you would like to make.</step>
+            <step>Glue on buttons, sequins, or googly eyes to make a face and give your sock a personality.</step>
+            <step>Glue on yarn for hair or fur.</step>
+            <step>Cut out felt shapes to make ears, hats, crowns, and other accessories. When your puppet is complete, give it a funny name. Then make another one!</step>
+        </directions>
+    </card>
+    <card>
+        <id>085</id>
+        <month>March</month>
+        <name>Fingerprint Masterpieces</name>
+        <description>Let your imagination run wild!</description>
+        <materials>
+            <item>Paper</item>
+            <item>Ink pad</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Use your fingerprints to create crazy creatures. Roll a finger firmly in the ink pad. Then, press your finger firmly onto the paper. Use different fingers to vary the size and shape of your prints.</step>
+            <step>Allow the prints to dry before you add details to your drawings. The possibilities are endless!</step>
+        </directions>
+    </card>
+    <card>
+        <id>086</id>
+        <month>October</month>
+        <name>Halloween Trick</name>
+        <description>Fool all of your friends with this quick trick!</description>
+        <materials>
+            <item>Small gift box with lid</item>
+            <item>Cotton filler</item>
+            <item>Scissors</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Cut a small hole in the bottom of your box.</step>
+            <step>while holding the box, poke a finger through the hole. Lay your finger flat on the cotton filling. With a red marker, color the cotton around the hole.</step>\
+            <step>Place the lid back on the box. Tell your friend that you go them a "present." Open the box and reveal your finger.</step>
+        </directions>
+    </card>
+    <card>
+        <id>087</id>
+        <month>October</month>
+        <name>Ghost Pops</name>
+        <description>Get ready for Halloween with these spooky treats.</description>
+        <materials>
+            <item>Lollipops</item>
+            <item>White tissues</item>
+            <item>Ribbon or yarn (preferably orange)</item>
+            <item>Scissors</item>
+            <item>Felt-tip marker</item>
+        </materials>
+        <directions>
+            <step>Keep the lollipops in their original wrappers. Cover the candy with a tissue.</step>
+            <step>Wrap a piece of ribbon or yarn around the stick at the base of the candy, and knot to secure in place.</step>
+            <step>Draw some spooky eyes and a mouth on your ghost. Make several ghosts to give to your friends on Halloween.</step>
+        </directions>
+    </card>
+    <card>
+        <id>088</id>
+        <month>October</month>
+        <name>Spooky Ghosts</name>
+        <description>Frighten trick-or-treaters with these easy-to-make ghosts.</description>
+        <materials>
+            <item>Balloons</item>
+            <item>Large sheets of white tissue paper</item>
+            <item>String or ribbon</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Blow up a balloon to about the size of a grapefruit. Knot the opening.</step>
+            <step>Lay a piece of tissue paper flat on your work surface. Place the balloon in the middle of the paper. Gather the paper around the balloon. Knot a piece of string around the gathered paper.</step>
+            <step>Use your markers to draw a face on your ghost.</step>
+            <step>Tie your ghost to a tree branch and watch it float in the wind.</step>
+        </directions>
+    </card>
+    <card>
+        <id>089</id>
+        <month>December</month>
+        <name>Holiday Wreath</name>
+        <description>Decorate your house for the holidays.</description>
+        <materials>
+            <item>Paper plate</item>
+            <item>Scissors</item>
+            <item>Construction paper (holiday colors)</item>
+            <item>Pencil</item>
+            <item>Glue</item>
+            <item>Glitter</item>
+        </materials>
+        <directions>
+            <step>Cut out the center of the paper plate. Use the remaining ring shape as the base of your wreath.</step>
+            <step>Next, trace and cut out approximately 16 of your hand prints from the construction paper. You many need more or less, depending on the size of your hand.</step>
+            <step>Glue the hands around the edge of your paper plate ring, in an overlapping fashion.</step>
+            <step>Jazz up your wreath with some glitter if you'd like. Now hang your wreath where everyone can see it.</step>
+        </directions>
+    </card>
+    <card>
+        <id>090</id>
+        <month>December</month>
+        <name>Snowman Ornament</name>
+        <description>You don't need snow to make this snowman!</description>
+        <materials>
+            <item>Construction paper (white)</item>
+            <item>Ruler</item>
+            <item>Scissors</item>
+            <item>Clear tape</item>
+            <item>Glue</item>
+            <item>Yarn or string</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Measure and cut four strips of white paper in each of the following sizes: ¾" x 11" (2cm x 28cm), ¾" x 9" (2cm x 23cm), and ¾" x 7" (2 cm x 18cm).</step>
+            <step>Next, take two of the longest strips and fold them in half. Then unfold. You will now have a crease marking the center of the strips. Place one strip over the other, intersecting at the centers to create a cross. Tape the strips together. Repeat this process with the other two longest strips. Lay one cross over the other diagonally and tape together.</step>
+            <step>Bend each strip so that the opposite ends match up. Tap the ends together. You should now have a sphere shape. Repeat steps 2 and 3 with the other sets of strips to make two more spheres.</step>
+            <step>Assemble your snowman by gluing the spheres together working from largest to smallest.</step>
+            <step>Tie a loop of yarn or string to the top section of your snowman. Add a face with your markers.</step>
+        </directions>
+    </card>
+    <card>
+        <id>091</id>
+        <month>December</month>
+        <name>Reindeer Ornament</name>
+        <description>Use your hangs and feet to make this ornament.</description>
+        <materials>
+            <item>Construction paper (brown, yellow, red, white)</item>
+            <item>Pencil</item>
+            <item>Scissors</item>
+            <item>Glue</item>
+            <item>Markers</item>
+            <item>Hole punch</item>
+            <item>Ribbon or string</item>
+        </materials>
+        <directions>
+            <step>Trace your shoe print onto the brown construction paper. Trace two hand prints onto the yellow paper. Cut out all of the traced shapes.</step>
+            <step>Glue the two hands to the back of the footprint to form the reindeer antlers.</step>
+            <step>Cut out a red circle for the nose, and two white circles for the eyes. Use your markers to add detail to the face.</step>
+            <step>Punch a hole near the top of the reindeer head and thread a piece ribbon through it. Hang your reindeer for everyone to see.</step>
+        </directions>
+    </card>
+    <card>
+        <id>092</id>
+        <month>December</month>
+        <name>Silver Star of David</name>
+        <description>This beautiful star is easy to make.</description>
+        <materials>
+            <item>6 Popsicle sticks</item>
+            <item>Tin foil</item>\
+            <item>Glue</item>
+            <item>Ribbon or string</item>
+        </materials>
+        <directions>
+            <step>Tightly wrap each Popsicle stick in a piece of tin foil. Be Sure to remove any excess foil. You don't want your stick to be too bulky.</step>
+            <step>With three of the sticks, make a perfect triangle by gluing the ends together. Make another triangle with the remaining three sticks. Allow the glue to dry completely.</step>
+            <step>Finally, glue the two triangles together to form a perfect star.</step>
+            <step>Loop the ribbon through one of the holes and hang your star where everyone can enjoy it.</step>
+        </directions>
+    </card>
+    <card>
+        <id>093</id>
+        <month>November</month>
+        <name>Cozy Fleece Scarf</name>
+        <description>This scarf will make your wintertime warm and bright.</description>
+        <materials>
+            <item>1½ yards (1½ m) of brightly colored fleece fabric</item>
+            <item>Scissors</item>
+        </materials>
+        <directions>
+            <step>Cut a 10" (25 cm) wide strip form your fabric, so you have a 10" x 1½ yard (25 cm x 1½m) piece.</step>
+            <step>Cut 2" in from the edges, every half inch (1¼ cm) or so, to create fringe all around your scarf. You can stop there and skip to step 4, or move on to optional step 3.</step>
+            <step>Tie a knot in each piece of fringe. Keep your knots close to the body of the scarf, or tie them in the middle or at the end of each fringe. It's up to you.</step>
+            <step>Put on your scarf and enjoy cozy comfort all winter long! You should have some fleece left over; make a few more scarves for your friends.</step>
+        </directions>
+    </card>
+    <card>
+        <id>094</id>
+        <month>December</month>
+        <name>Holiday Cards</name>
+        <description>Cookie cutters aren't just for sweets!</description>
+        <materials>
+            <item>Construction paper</item>
+            <item>Cookie cutters</item>
+            <item>Pencil</item>
+            <item>Glue</item>
+            <item>Markers</item>
+            <item>Hole punch</item>
+        </materials>
+        <directions>
+            <step>Use your cookie cutters to trace fun shapes onto your construction paper.</step>
+            <step>Cut out the shapes and add details with your markers to other paper shapes. For example, make polka dots by punching out different colors of construction paper. Glue the dots onto your card.</step>
+            <step>Write a nice note on the back of your card and give it to a special friend.</step>
+        </directions>
+    </card>
+    <card>
+        <id>095</id>
+        <month>January</month>
+        <name>Stained Glass Snowflakes</name>
+        <description>These look great hanging in a window.</description>
+        <materials>
+            <item>Construction paper (preferably black)</item>
+            <item>Scissors</item>
+            <item>Tissue paper (a few colors)</item>
+            <item>Hole punch</item>
+            <item>Ribbon or string</item>
+        </materials>
+        <directions>
+            <step>Start with two pieces of 8" x 8" (20cm x 20cm) squares of black construction paper. With the edges lined up, fold the papers in half diagonally. Then, fold it in half diagonally two more times. You should have a small triangle.</step>
+            <step>With your scissors, round out the point of your triangle. Cut a simple triangle shape from each folded edge. Now unfold the papers. You should have two identical snowflakes.</step>
+            <step>Set one snowflake aside. Carefully, cut out pieces of tissue paper a little larger than each of the holes in the snowflake. Glue the tissue paper to one side of the snowflake until each hole is covered.</step>
+            <step>Match up the edges with the snowflake you set aside and glue together, sandwiching the tissue paper between the two flakes. After the glue has dried, punch a hole in your stained glass snowflake and hang it in a window with the ribbon.</step>
+        </directions>
+    </card>
+    <card>
+        <id>096</id>
+        <month>December</month>
+        <name>Candy Cane Card</name>
+        <description>Show a friend how you fell this holiday season.</description>
+        <materials>
+            <item>Construction paper (green)</item>
+            <item>Candy canes</item>
+            <item>Glue</item>
+            <item>Markers</item>
+        </materials>
+        <directions>
+            <step>Make a card by folding a piece of green construction paper in half.</step>
+            <step>With the wrapper on, place the candy canes on the front of your card facing each other to form a heart shape. Glue the candy canes in place.</step>
+            <step>Add details and a nice message to your card with markers.</step>
+        </directions>
+    </card>
+    <card>
+        <id>097</id>
+        <month>January</month>
+        <name>Baby Food Jar Snow Globes</name>
+        <description>Make a winter wonderland where strained carrots once belonged.</description>
+        <materials>
+            <item>Baby food jar or other small, wide-mouth jar with tight-fitting lid (clean and dry)</item>
+            <item>Waterproof glue or silicone sealant</item>
+            <item>Small toys and trinkets to go inside (plastic flowers and seashells also work well)</item>
+            <item>Water</item>
+            <item>Glitter</item>
+            <item>Clear corn syrup</item>
+            <item>Paper towel</item>
+        </materials>
+        <directions>
+            <step>Make a scene with your toys and trinkets and glue them securely to the inside of the jar lid. Try and find things that will stand up tall inside the jar. Make sure you keep glued items away from the edges of the lid, so they don't get in the way when you screw the lid back onto the jar.</step>
+            <step>Fill your jar about ¾ full with water. To prevent a mess, set your jar down in the sink and add corn syrup to the water until it's just about full. Add a teaspoon or so of glitter.</step>
+            <step>Squirt some waterproof glue all the way around the inside rim of the jar lid. Turn your jar lid upside-down and screw it on as tightly as you can. Water and glue may ooze out a bit, but just wipe it off with a paper towel. Allow time for the glue to set, then shake it up!</step>
+        </directions>
+    </card>
+    <card>
+        <id>098</id>
+        <month>December</month>
+        <name>Colorful Paper Chains</name>
+        <description>Decorate a Christmas tree or your bedroom with these colorful chains.</description>
+        <materials>
+            <item>Construction paper.</item>
+            <item>Ruler</item>
+            <item>Pencil</item>
+            <item>Scissors</item>
+            <item>Glue</item>
+            <item>Paper clips</item>
+        </materials>
+        <directions>
+            <step>Cut out several strips of paper to approximately 1" x 8" (3cm x 20cm) each.</step>
+            <step>Curl on paper strip into a circle. Overlap the ends and glue together. Place a paper clip over the glued area to hold it in place to dry.</step>
+            <step>Thread another strip of paper through the loop, and glue the ends together. Secure it with a paper clip. Repeat this process until your chain is as long as you wish. Remove the paper clips when the glue is dry. Drape your chain anywhere you'd like.</step>
+        </directions>
+    </card>
+    <card>
+        <id>099</id>
+        <month>September</month>
+        <name>Smiley-face Zipper Pull</name>
+        <description>Keep your jacket zipped all the way up to show off this custom zipper pull.</description>
+        <materials>
+            <item>2 large paper clips</item>
+            <item>Felt scraps</item>
+            <item>Scissors</item>
+            <item>Googly eyes</item>
+            <item>Glue</item>
+        </materials>
+        <directions>
+            <step>Cut 2" (5 cm) circles of felt. Glue them together with a paper clip sandwiched in between. Leave about ¼" (¾ cm) of the end of the paper clip sticking out.</step>
+            <step>Glue on googly eyes and a big happy smile made from a different color felt.</step>
+            <step>Attach the other paper clip to the loop of the paper clip that is sticking out of the felt circles. Hook your zipper pull to your jacket zipper.</step>
+            <step>Try making some zippy zipper pulls out of other shapes and characters, and give them to your friends.</step>
+        </directions>
     </card>
 
-<!--
-        <card>
-            <id></id>
-            <month></month>
-            <name></name>
-            <description></description>
-            <materials>
-                <item></item>
-            </materials>
-            <directions>
-                <step></step>
-            </directions>
-        </card>
-    -->
+</cards>
+    <!--
+            <card>
+                <id></id>
+                <month></month>
+                <name></name>
+                <description></description>
+                <materials>
+                    <item></item>
+                </materials>
+                <directions>
+                    <step></step>
+                </directions>
+            </card>
+        -->
     <!-- Missing second sheet
-
-
        <card>
         <id></id>
         <month>March</month>
-        <name>Shamrock Suncatchers</name>
+        <name>Shamrock Sun-catchers</name>
         <description>Let the sun shine in and get the luck of the Irish!</description>
         <materials>
             <item>Green pipe cleaners</item>
@@ -1162,11 +1968,9 @@
         </materials>
         <directions>
             <step>Twist your pipe cleaners into shamrock shapes. Use the length of one whole pipe cleaner to make a small shamrock, or make three separate shamrock leaf section sand a stem with separate pipe cleaners. However you do it, it's important to make a continuous pipe cleaner edge with no gaps.</step>
-            <step>Lay your shamrocks down on a piece of plastic wrap. Bend them so that they are as flat as possible, makin gsure they make contact with the plastic all the way around.</step>
+            <step>Lay your shamrocks down on a piece of plastic wrap. Bend them so that they are as flat as possible, making sure they make contact with the plastic all the way around.</step>
             <step>Pour some glue into the cup, and add a few drops of food coloring. The more color you add, the darker the green will become.</step>
-
         </directions>
     </card>
-
      -->
-</cards>
+
