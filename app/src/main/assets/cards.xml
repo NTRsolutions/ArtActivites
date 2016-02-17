@@ -921,7 +921,7 @@
     <card>
         <id>047</id>
         <month>January</month>
-        <name>Quilled Card</name>
+        <name>Quilted Card</name>
         <description>Create unique cars with a few coiled strips of colored paper.</description>
         <materials>
             <item>Colored paper</item>
@@ -1027,7 +1027,7 @@
     <card>
         <id>052</id>
         <month>July</month>
-        <name>Button Baubles</name>
+        <name>Button Ring</name>
         <description>It doesn't take much to make a beautiful ring from a big, beautiful button.</description>
         <materials>
             <item>Buttons of different shapes and colors (the kind with a shank on the back and no holes works best)</item>
@@ -1139,7 +1139,7 @@
     <card>
         <id>058</id>
         <month>March</month>
-        <name>"Eggcellent" Storage Container</name>
+        <name>Egg carton Candy Dish / Storage Container</name>
         <description>Recycle an egg carton to store your favorite things.</description>
         <materials>
             <item>Egg carton</item>
@@ -1151,7 +1151,7 @@
         </materials>
         <directions>
             <step>Use your imagination to decorate an empty egg carton with paints, construction paper, and markers.</step>
-            <step>After the paint and glue have dried, fill the container with some of your favorite things: coins, beads, fishing hooks, or any small items you want to keep organized.</step>
+            <step>After the paint and glue have dried, fill the container with Candy or some of your favorite things: coins, beads, fishing hooks, or any small items you want to keep organized.</step>
         </directions>
     </card>
     <card>
